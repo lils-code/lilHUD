@@ -719,7 +719,7 @@
 	{
 		"ControlName"					"CExLabel"
 		"fieldName"						"SelectLabel"
-		"font"							"Size 24"
+		"font"							"Size24"
 		"labelText"						"#SelectClassLoadout"
 		"textAlignment"					"north"
 		"xpos"							"0"
@@ -1284,7 +1284,7 @@
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"TitleLabel"
-			"font"						"Size 14"
+			"font"						"Size14"
 			"labelText"					"#LoadoutExplanation_Title"
 			"textAlignment"				"north"
 			"xpos"						"20"
@@ -1304,7 +1304,7 @@
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"TextLabel"
-			"font"						"Size 14"
+			"font"						"Size14"
 			"labelText"					"#LoadoutExplanation_Text"
 			"textAlignment"				"north-west"
 			"xpos"						"20"
@@ -1355,7 +1355,7 @@
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"PositionLabel"
-			"font"						"Size 14"
+			"font"						"Size14"
 			"labelText"					"%explanationnumber%"
 			"textAlignment"				"center"
 			"xpos"						"0"
@@ -1430,7 +1430,7 @@
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"TitleLabel"
-			"font"						"Size 14"
+			"font"						"Size14"
 			"labelText"					"#BackpackExplanation_Title"
 			"textAlignment"				"north"
 			"xpos"						"20"
@@ -1450,7 +1450,7 @@
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"TextLabel"
-			"font"						"Size 14"
+			"font"						"Size14"
 			"labelText"					"#BackpackExplanation_Text"
 			"textAlignment"				"north-west"
 			"xpos"						"20"
@@ -1533,7 +1533,7 @@
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"PositionLabel"
-			"font"						"Size 14"
+			"font"						"Size14"
 			"labelText"					"%explanationnumber%"
 			"textAlignment"				"center"
 			"xpos"						"0"
@@ -1608,7 +1608,7 @@
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"TitleLabel"
-			"font"						"Size 14"
+			"font"						"Size14"
 			"labelText"					"#CraftingExplanation_Title"
 			"textAlignment"				"north"
 			"xpos"						"20"
@@ -1628,7 +1628,7 @@
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"TextLabel"
-			"font"						"Size 14"
+			"font"						"Size14"
 			"labelText"					"#CraftingExplanation_Text"
 			"textAlignment"				"north-west"
 			"xpos"						"20"
@@ -1711,7 +1711,7 @@
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"PositionLabel"
-			"font"						"Size 14"
+			"font"						"Size14"
 			"labelText"					"%explanationnumber%"
 			"textAlignment"				"center"
 			"xpos"						"0"
@@ -1786,7 +1786,7 @@
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"TitleLabel"
-			"font"						"Size 14"
+			"font"						"Size14"
 			"labelText"					"#ArmoryExplanation_Title"
 			"textAlignment"				"north"
 			"xpos"						"20"
@@ -1806,7 +1806,7 @@
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"TextLabel"
-			"font"						"Size 14"
+			"font"						"Size14"
 			"labelText"					"#ArmoryExplanation_Text"
 			"textAlignment"				"north-west"
 			"xpos"						"20"
@@ -1889,7 +1889,7 @@
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"PositionLabel"
-			"font"						"Size 14"
+			"font"						"Size14"
 			"labelText"					"%explanationnumber%"
 			"textAlignment"				"center"
 			"xpos"						"0"
@@ -1964,7 +1964,7 @@
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"TitleLabel"
-			"font"						"Size 14"
+			"font"						"Size14"
 			"labelText"					"#TradingExplanation_Title"
 			"textAlignment"				"north"
 			"xpos"						"20"
@@ -1984,7 +1984,7 @@
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"TextLabel"
-			"font"						"Size 14"
+			"font"						"Size14"
 			"labelText"					"#TradingExplanation_Text"
 			"textAlignment"				"north-west"
 			"xpos"						"20"
@@ -2067,7 +2067,7 @@
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"PositionLabel"
-			"font"						"Size 14"
+			"font"						"Size14"
 			"labelText"					"%explanationnumber%"
 			"textAlignment"				"center"
 			"xpos"						"0"
@@ -2142,7 +2142,7 @@
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"TitleLabel"
-			"font"						"Size 14"
+			"font"						"Size14"
 			"labelText"					"#WeaponPatternsExplanation_Title"
 			"textAlignment"				"north"
 			"xpos"						"20"
@@ -2162,7 +2162,7 @@
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"TextLabel"
-			"font"						"Size 14"
+			"font"						"Size14"
 			"labelText"					"#WeaponPatternsExplanation_Text"
 			"textAlignment"				"north-west"
 			"xpos"						"20"
@@ -2245,7 +2245,7 @@
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"PositionLabel"
-			"font"						"Size 14"
+			"font"						"Size14"
 			"labelText"					"%explanationnumber%"
 			"textAlignment"				"center"
 			"xpos"						"0"
@@ -2319,7 +2319,7 @@
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"TitleLabel"
-			"font"						"Size 14"
+			"font"						"Size14"
 			"labelText"					"#ExplanationExplanation_Title"
 			"textAlignment"				"north"
 			"xpos"						"20"
@@ -2339,7 +2339,7 @@
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"TextLabel"
-			"font"						"Size 14"
+			"font"						"Size14"
 			"labelText"					"#ExplanationExplanation_Text"
 			"textAlignment"				"north-west"
 			"xpos"						"20"
@@ -2422,7 +2422,7 @@
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"PositionLabel"
-			"font"						"Size 14"
+			"font"						"Size14"
 			"labelText"					"%explanationnumber%"
 			"textAlignment"				"center"
 			"xpos"						"0"

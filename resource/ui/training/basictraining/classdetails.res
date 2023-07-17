@@ -14,7 +14,7 @@
 		"enabled"					"1"
 		"tabPosition"				"0"
 		"labelText"					"#TF_Training_StartTraining"
-		"font"						"Size 15"
+		"font"						"Size15"
 		"textAlignment"				"center"
 		"textinsetx"				"0"
 		"dulltext"					"0"
@@ -56,7 +56,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"ClassNameLabel"
-			"font"					"Size 24"
+			"font"					"Size24"
 			"labelText"				"%classname%"
 			"textAlignment"			"left"
 			"xpos"					"10"
@@ -75,7 +75,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"DescLabel"
-			"font"					"Size 10"
+			"font"					"Size10"
 			"labelText"				"%description%"
 			"textAlignment"			"left"
 			"xpos"					"10"
@@ -95,7 +95,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"WeaponSetLabel"
-			"font"					"Size 10"
+			"font"					"Size10"
 			"labelText"				"#TR_StandardWeaponSet"
 			"textAlignment"			"center"
 			"xpos"					"10"
@@ -153,7 +153,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"PrimaryLabel"
-			"font"					"Size 10"
+			"font"					"Size10"
 			"labelText"				"#TR_Primary"
 			"textAlignment"			"center"
 			"xpos"					"15"
@@ -172,7 +172,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"SecondaryLabel"
-			"font"					"Size 10"
+			"font"					"Size10"
 			"labelText"				"#TR_Secondary"
 			"textAlignment"			"center"
 			"xpos"					"115"
@@ -191,7 +191,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"MeleeLabel"
-			"font"					"Size 10"
+			"font"					"Size10"
 			"labelText"				"#TR_Melee"
 			"textAlignment"			"center"
 			"xpos"					"215"

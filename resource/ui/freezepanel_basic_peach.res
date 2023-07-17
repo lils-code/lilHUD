@@ -40,7 +40,7 @@
 		{	
 			"ControlName"					"CExLabel"
 			"fieldName"						"FreezeLabelKiller"
-			"font"							"Size 14"
+			"font"							"Size14"
 			"xpos"							"0"
 			"ypos"							"32"
 			"zpos"							"5"
@@ -70,7 +70,7 @@
 			"enabled"						"1"
 			"textAlignment"					"center"	
 			"labeltext"						"%killername%"
-			"font"							"Size 14"
+			"font"							"Size14"
 			"fgcolor_override"				"Shadows"
 		
 			"pin_to_sibling"				"FreezeLabelKiller"

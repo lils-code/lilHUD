@@ -51,21 +51,21 @@
 		{
 			"1"
 			{
-				"font"				"Size 10"
+				"font"				"Size10"
 			}
 
 			"2"
 			{
-				"font"				"Size 9"
+				"font"				"Size9"
 			}
 			"3"
 			{
-				"font"				"Size 8"
+				"font"				"Size8"
 			}
 
 			"4"
 			{
-				"font"				"Size 7"
+				"font"				"Size7"
 			}
 		}
 
@@ -116,7 +116,7 @@
 
 		"enabled"					"1"
 		"tabPosition"				"0"
-		"font"						"Size 11"
+		"font"						"Size11"
 		"textAlignment"				"center"
 		"dulltext"					"0"
 		"brighttext"				"0"
@@ -162,7 +162,7 @@
 
 		"enabled"					"1"
 		"tabPosition"				"0"
-		"font"						"Size 11"
+		"font"						"Size11"
 		"textAlignment"				"center"
 		"dulltext"					"0"
 		"brighttext"				"0"

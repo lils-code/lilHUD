@@ -80,7 +80,7 @@
 		
 		"duplicatelabels_kv"
 		{
-			"font"						"Size 11"
+			"font"						"Size11"
 			"textAlignment"				"center"
 			"wide"						"20"
 			"tall"						"15"
@@ -126,7 +126,7 @@
 	{
 		"ControlName"					"CExLabel"
 		"fieldName"						"ItemSlotLabel"
-		"font"							"Size 35"
+		"font"							"Size35"
 		"labelText"						"#PrimaryWeapon"
 		"textAlignment"					"west"
 		"xpos"							"0"
@@ -166,7 +166,7 @@
 		"fgcolor_override"				"White"
 		"bgcolor_override"				"Blank"
 		"paintbackgroundtype" 			"2"
-		"font"							"Size 12"
+		"font"							"Size12"
 		
 		"pin_to_sibling" 				"SelectionBG"
 		"pin_corner_to_sibling" 		"PIN_BOTTOMRIGHT"
@@ -212,7 +212,7 @@
 		"enabled"						"1"
 		"tabPosition"					"0"
 		"labelText"						"#Selection_ShowBackpack"
-		"font"							"Size 20"
+		"font"							"Size20"
 		"textAlignment"					"center"
 		"textinsetx"					"0"
 		"AllCaps"						"1"
@@ -252,7 +252,7 @@
 		"enabled"						"1"
 		"tabPosition"					"0"
 		"labelText"						"#Selection_ShowSelection"
-		"font"							"Size 20"
+		"font"							"Size20"
 		"textAlignment"					"center"
 		"textinsetx"					"0"
 		"AllCaps"						"1"
@@ -282,7 +282,7 @@
 		"ControlName"					"CheckButton"
 		"fieldName"						"OnlyAllowUniqueQuality"
 		"labelText"						"#OnlyAllowUniqueQuality"
-		"Font"							"Size 12"
+		"Font"							"Size12"
 		"textAlignment"					"west"
 		"xpos"							"3"
 		"ypos"							"0"
@@ -403,7 +403,7 @@
 	{
 		"ControlName"					"CExLabel"
 		"fieldName"						"NoItemsLabel"
-		"font"							"Size 30"
+		"font"							"Size30"
 		"labelText"						"#NoItemsToEquip"
 		"textAlignment"					"center"
 		"xpos"							"c-300"

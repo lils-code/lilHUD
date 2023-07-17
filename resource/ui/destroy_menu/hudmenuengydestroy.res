@@ -66,7 +66,7 @@
 	{	
 		"ControlName"			"CExLabel"
 		"fieldName"				"TitleLabel"
-		"font"					"Size 16"
+		"font"					"Size16"
 		"xpos"					"-4"
 		"ypos"					"11"
 		"zpos"					"10"
@@ -89,7 +89,7 @@
 	{	
 		"ControlName"			"CExLabel"
 		"fieldName"				"TitleLabelDropshadow"
-		"font"					"Size 16"
+		"font"					"Size16"
 		"xpos"					"-1"
 		"ypos"					"-1"
 		"zpos"					"9"

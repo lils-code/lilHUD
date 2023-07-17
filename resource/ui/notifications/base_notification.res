@@ -4,7 +4,7 @@
 	{	
 		"ControlName"								"CExLabel"
 		"fieldName"									"Notification_Label"
-		"font"										"Size 10"
+		"font"										"Size10"
 		"xpos"										"c-200"
 		"ypos"										"9"
 		"wide"										"400"

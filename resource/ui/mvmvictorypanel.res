@@ -45,7 +45,7 @@
 			{
 				"ControlName"			"CExLabel"
 				"fieldName"				"HeaderLabel"
-				"font"					"Size 24"
+				"font"					"Size24"
 				"labelText"				"%header%"
 				"textAlignment"			"center"
 				"xpos"					"0"
@@ -67,7 +67,7 @@
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"CreditLabel"
-			"font"						"Size 18"
+			"font"						"Size18"
 			"labelText"					"#TF_PVE_Currency"
 			"textAlignment"				"west"
 			"xpos"						"80"
@@ -105,7 +105,7 @@
 			{
 				"ControlName"			"CExLabel"
 				"fieldName"				"RatingLabel"
-				"font"					"Size 24"
+				"font"					"Size24"
 				"labelText"				"%ratinglabel%"
 				"textAlignment" 		"center"
 				"xpos"					"0"
@@ -126,7 +126,7 @@
 			{
 				"ControlName"			"CExLabel"
 				"fieldName"				"RatingText"
-				"font"					"Size 36"
+				"font"					"Size36"
 				"labelText"				"%ratingscore%"
 				"textAlignment" 		"center"
 				"xpos"					"0"
@@ -164,7 +164,7 @@
 		"enabled"						"1"
 		"tabPosition"					"0"
 		"labelText"						"#DoneButton"
-		"font"							"Size 15"
+		"font"							"Size15"
 		"textAlignment"					"center"
 		"dulltext"						"0"
 		"brighttext"					"0"

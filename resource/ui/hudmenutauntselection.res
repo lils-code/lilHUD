@@ -46,7 +46,7 @@
 	{	
 		"ControlName"			"CExLabel"
 		"fieldName"				"TitleLabel"
-		"font"					"Size 16"
+		"font"					"Size16"
 		"xpos"					"6"
 		"ypos"					"0"
 		"zpos"					"100"
@@ -69,7 +69,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabelDropshadow"
-		"font"					"Size 16"
+		"font"					"Size16"
 		"xpos"					"-1"
 		"ypos"					"-1"
 		"zpos"					"99"
@@ -163,7 +163,7 @@
 	{	
 		"ControlName"			"CExLabel"
 		"fieldName"				"NumberLabel1"
-		"font"					"Size 12"
+		"font"					"Size12"
 		"fgcolor"				"White"
 		"xpos"					"0"
 		"ypos"					"-5"
@@ -246,7 +246,7 @@
 	{	
 		"ControlName"			"CExLabel"
 		"fieldName"				"NumberLabel2"
-		"font"					"Size 12"
+		"font"					"Size12"
 		"fgcolor"				"White"
 		"xpos"					"0"
 		"ypos"					"-5"
@@ -328,7 +328,7 @@
 	{	
 		"ControlName"			"CExLabel"
 		"fieldName"				"NumberLabel3"
-		"font"					"Size 12"
+		"font"					"Size12"
 		"fgcolor"				"White"
 		"xpos"					"0"
 		"ypos"					"-5"
@@ -410,7 +410,7 @@
 	{	
 		"ControlName"			"CExLabel"
 		"fieldName"				"NumberLabel4"
-		"font"					"Size 12"
+		"font"					"Size12"
 		"fgcolor"				"White"
 		"xpos"					"0"
 		"ypos"					"-5"
@@ -492,7 +492,7 @@
 	{	
 		"ControlName"			"CExLabel"
 		"fieldName"				"NumberLabel5"
-		"font"					"Size 12"
+		"font"					"Size12"
 		"fgcolor"				"White"
 		"xpos"					"0"
 		"ypos"					"-5"
@@ -574,7 +574,7 @@
 	{	
 		"ControlName"			"CExLabel"
 		"fieldName"				"NumberLabel6"
-		"font"					"Size 12"
+		"font"					"Size12"
 		"fgcolor"				"White"
 		"xpos"					"0"
 		"ypos"					"-5"
@@ -656,7 +656,7 @@
 	{	
 		"ControlName"			"CExLabel"
 		"fieldName"				"NumberLabel7"
-		"font"					"Size 12"
+		"font"					"Size12"
 		"fgcolor"				"White"
 		"xpos"					"0"
 		"ypos"					"-5"
@@ -738,7 +738,7 @@
 	{	
 		"ControlName"			"CExLabel"
 		"fieldName"				"NumberLabel8"
-		"font"					"Size 12"
+		"font"					"Size12"
 		"fgcolor"				"White"
 		"xpos"					"0"
 		"ypos"					"-5"

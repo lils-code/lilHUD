@@ -46,7 +46,7 @@
 	{	
 		"ControlName"			"CExLabel"
 		"fieldName"				"TitleLabel"
-		"font"					"Size 16"
+		"font"					"Size16"
 		"xpos"					"-10"
 		"ypos"					"0"
 		"zpos"					"2"

@@ -58,7 +58,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"TitleLabel"
-		"font"						"Size 15"
+		"font"						"Size15"
 		"labelText"					"dynamic"
 		"textAlignment"				"center"
 		"xpos"						"100"
@@ -79,7 +79,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"ToolBG"
-		"font"						"Size 14"
+		"font"						"Size14"
 		"labelText"					""
 		"textAlignment"				"east"
 		"xpos"						"10"
@@ -136,7 +136,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"SubjectBG"
-		"font"						"Size 14"
+		"font"						"Size14"
 		"labelText"					""
 		"textAlignment"				"east"
 		"xpos"						"300"
@@ -191,7 +191,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"OldItemNameBG"
-		"font"						"Size 15"
+		"font"						"Size15"
 		"labelText"					""
 		"textAlignment"				"east"
 		"xpos"						"10"
@@ -211,7 +211,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"OldItemNameDescLabel"
-		"font"						"Size 12"
+		"font"						"Size12"
 		"labelText"					"#ToolItemRenameOldItemName"
 		"textAlignment"				"west"
 		"xpos"						"-5"
@@ -236,7 +236,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"OldItemNameLabel"
-		"font"						"Size 12"
+		"font"						"Size12"
 		"labelText"					"%oldname%"
 		"textAlignment"				"east"
 		"xpos"						"-5"
@@ -261,7 +261,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"NewItemNameBG"
-		"font"						"Size 15"
+		"font"						"Size15"
 		"labelText"					""
 		"textAlignment"				"east"
 		"xpos"						"10"
@@ -281,7 +281,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"NewItemNameDescLabel"
-		"font"						"Size 12"
+		"font"						"Size12"
 		"labelText"					"#ToolItemRenameNewItemName"
 		"textAlignment"				"west"
 		"xpos"						"-5"
@@ -325,7 +325,7 @@
 		"bgcolor_override"			"BlackLightTransparent"
 		"paintbackgroundtype" 		"0"
 		"labelText"					""
-		"font"						"Size 12"
+		"font"						"Size12"
 		"AllCaps"					"1"
 		"textAlignment"				"west"
 		
@@ -338,7 +338,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"WarningLabel"
-		"font"						"Size 15"
+		"font"						"Size15"
 		"labelText"					"#ToolConfirmWarning"
 		"textAlignment"				"center"
 		"xpos"						"0"
@@ -369,7 +369,7 @@
 		"enabled"					"1"
 		"tabPosition"				"0"
 		"labelText"					"Cancel (&Q)"
-		"font"						"Size 15"
+		"font"						"Size15"
 		"textAlignment"				"center"
 		"AllCaps"					"1"
 		"dulltext"					"0"
@@ -404,7 +404,7 @@
 		"enabled"					"1"
 		"tabPosition"				"0"
 		"labelText"					"#CraftNameConfirm"
-		"font"						"Size 15"
+		"font"						"Size15"
 		"textAlignment"				"center"
 		"AllCaps"					"1"
 		"dulltext"					"0"

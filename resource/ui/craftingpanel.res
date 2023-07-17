@@ -94,7 +94,7 @@
 		
 		"recipebuttons_kv"
 		{
-			"font"							"Size 12"
+			"font"							"Size12"
 			"xpos"							"0"
 			"ypos"							"0"
 			"zpos"							"1"
@@ -167,7 +167,7 @@
 	{
 		"ControlName"						"CExLabel"
 		"fieldName"							"ClassLabel"
-		"font"								"Size 35"
+		"font"								"Size35"
 		"labelText"							"crafting"
 		"textAlignment"						"west"
 		"xpos"								"c-293"
@@ -240,7 +240,7 @@
 		{
 			"ControlName"					"CExLabel"
 			"fieldName"						"InputLabel"
-			"font"							"Size 14"
+			"font"							"Size14"
 			"labelText"						"#Craft_Recipe_Inputs"
 			"textAlignment"					"west"
 			"xpos"							"8"
@@ -259,7 +259,7 @@
 		{
 			"ControlName"					"CExLabel"
 			"fieldName"						"OutputLabel"
-			"font"							"Size 14"
+			"font"							"Size14"
 			"labelText"						"#Craft_Recipe_Outputs"
 			"textAlignment"					"west"
 			"xpos"							"8"
@@ -289,7 +289,7 @@
 			"enabled"						"0"
 			"tabPosition"					"0"
 			"labelText"						"#CraftConfirm"
-			"font"							"Size 18"
+			"font"							"Size18"
 			"textAlignment"					"center"
 			"dulltext"						"0"
 			"brighttext"					"0"
@@ -313,7 +313,7 @@
 		{
 			"ControlName"					"CExLabel"
 			"fieldName"						"FreeAccountLabel"
-			"font"							"Size 11"
+			"font"							"Size11"
 			"labelText"						"#Craft_PremiumRecipe"
 			"textAlignment"					"west"
 			"xpos"							"20"
@@ -344,7 +344,7 @@
 			"enabled"						"1"
 			"tabPosition"					"0"
 			"labelText"						"#TF_Trial_Upgrade"
-			"font"							"Size 18"
+			"font"							"Size18"
 			"textAlignment"					"center"
 			"textinsetx"					"50"
 			"dulltext"						"0"
@@ -482,7 +482,7 @@
 		{
 			"ControlName"					"CExLabel"
 			"fieldName"						"TipLabel"
-			"font"							"Size 14"
+			"font"							"Size14"
 			"labelText"						"%tiptext%"
 			"textAlignment"					"center"
 			"xpos"							"20"

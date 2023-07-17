@@ -21,7 +21,7 @@
 	{	
 		"ControlName"			"CExLabel"
 		"fieldName"				"NotBuiltLabel"
-		"font"					"Size 12"
+		"font"					"Size12"
 		"xpos"					"-10"
 		"ypos"					"0"
 		"zpos"					"1"

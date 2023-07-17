@@ -33,7 +33,7 @@
 			{
 				"ControlName"				"CExLabel"
 				"fieldName"					"PlayerName"
-				"font"						"Size 10"
+				"font"						"Size10"
 				"xpos"						"45"
 				"ypos"						"0"
 				"zpos"						"5"
@@ -51,7 +51,7 @@
 			{
 				"ControlName"				"CExLabel"
 				"fieldName"					"PlayerNameShadow"
-				"font"						"Size 10"
+				"font"						"Size10"
 				"xpos"						"-1"
 				"ypos"						"-1"
 				"zpos"						"5"
@@ -139,7 +139,7 @@
 			{
 				"ControlName"				"CExLabel"
 				"fieldName"					"RespawnTime"
-				"font"						"Size 12"
+				"font"						"Size12"
 				"xpos"						"4"
 				"ypos"						"0"
 				"zpos"						"6"
@@ -157,7 +157,7 @@
 			{
 				"ControlName"				"CExLabel"
 				"fieldName"					"ChargeAmount"
-				"font"						"Size 11"
+				"font"						"Size11"
 				"xpos"						"113"
 				"ypos"						"0"
 				"zpos"						"6"
@@ -175,7 +175,7 @@
 			{
 				"ControlName"				"CExLabel"
 				"fieldName"					"ChargeAmountShadow"
-				"font"						"Size 11"
+				"font"						"Size11"
 				"xpos"						"-1"
 				"ypos"						"-1"
 				"zpos"						"5"
@@ -249,7 +249,7 @@
 		"labelText"							"#game_respawntime_in_secs"
 		"textAlignment"						"center"
 		"textinsetx"						"20"
-		"font"								"Size 12"
+		"font"								"Size12"
 		"bgcolor_override"					"Blank"
 		
 		if_mvm
@@ -273,7 +273,7 @@
 		"AllCaps"							"1"
 		"labelText"							"#TF_PVE_Buyback"
 		"textAlignment"						"center"
-		"font"								"Size 12"
+		"font"								"Size12"
 		"wrap"								"1"
 		"centerwrap"						"1"
 	

@@ -62,7 +62,7 @@
 	{
 		"ControlName"				"Label"
 		"fieldName"					"TargetNameLabel"
-		"font"						"Size 11"
+		"font"						"Size11"
 		"xpos"						"8"
 		"ypos"						"5"
 		"zpos"						"1"
@@ -82,7 +82,7 @@
 	{
 		"ControlName"				"Label"
 		"fieldName"					"TargetDataLabel"
-		"font"						"Size 10"
+		"font"						"Size10"
 		"xpos"						"8"
 		"ypos"						"16"
 		"zpos"						"1"

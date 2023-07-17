@@ -32,7 +32,7 @@
 		"labelText"					"#game_respawntime_in_secs"
 		"textAlignment"				"center"
 		"textinsetx"				"20"
-		"font"						"Size 12 Shadow"
+		"font"						"Size12Shadow"
 		"bgcolor_override"			"Blank"
 	}
 	
@@ -50,7 +50,7 @@
 		"enabled"					"1"
 		"labelText"					""
 		"textAlignment"				"center"
-		"font"						"Size 14"
+		"font"						"Size14"
 		"wrap"						"1"
 		"centerwrap"				"1"
 	}

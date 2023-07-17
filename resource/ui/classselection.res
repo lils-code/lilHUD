@@ -77,7 +77,7 @@
 		"AllCaps"							"1"
 		"dulltext"							"0"
 		"brighttext"						"1"
-		"font"								"Size 14"
+		"font"								"Size14"
 		"fgcolor_override"					"White"
 		
 		"pin_to_sibling" 					"SelectAClassFrame"
@@ -516,7 +516,7 @@
 		"textAlignment"						"center"
 		"Command"							"select 12"
 		"Default"							"0"
-		"font"								"Size 15"
+		"font"								"Size15"
 		"scaleImage"						"1"
 		
 		"image_default"						""
@@ -559,7 +559,7 @@
 		"textAlignment"						"center"
 		"Command"							"openloadout"
 		"Default"							"0"
-		"font"								"Size 15"
+		"font"								"Size15"
 		"scaleImage"						"1"
 		
 		"image_default"						""
@@ -599,7 +599,7 @@
 		"tabPosition"						"0"
 		"labelText"							"%numScout%"
 		"textAlignment"						"center"
-		"font"								"Size 16"
+		"font"								"Size16"
 		"fgcolor"							"White"
 		
 		"pin_to_sibling" 					"scout"
@@ -623,7 +623,7 @@
 		"tabPosition"						"0"
 		"labelText"							"%numSoldier%"
 		"textAlignment"						"center"
-		"font"								"Size 16"
+		"font"								"Size16"
 		"fgcolor"							"White"
 		
 		"pin_to_sibling" 					"soldier"
@@ -647,7 +647,7 @@
 		"tabPosition"						"0"
 		"labelText"							"%numPyro%"
 		"textAlignment"						"center"
-		"font"								"Size 16"
+		"font"								"Size16"
 		"fgcolor"							"White"
 		
 		"pin_to_sibling" 					"pyro"
@@ -671,7 +671,7 @@
 		"tabPosition"						"0"
 		"labelText"							"%numDemoman%"
 		"textAlignment"						"center"
-		"font"								"Size 16"
+		"font"								"Size16"
 		"fgcolor"							"White"
 		
 		"pin_to_sibling" 					"demoman"
@@ -695,7 +695,7 @@
 		"tabPosition"						"0"
 		"labelText"							"%numHeavy%"
 		"textAlignment"						"center"
-		"font"								"Size 16"
+		"font"								"Size16"
 		"fgcolor"							"White"
 		
 		"pin_to_sibling" 					"heavyweapons"
@@ -719,7 +719,7 @@
 		"tabPosition"						"0"
 		"labelText"							"%numEngineer%"
 		"textAlignment"						"center"
-		"font"								"Size 16"
+		"font"								"Size16"
 		"fgcolor"							"White"
 		
 		"pin_to_sibling" 					"Engineer"
@@ -743,7 +743,7 @@
 		"tabPosition"						"0"
 		"labelText"							"%numMedic%"
 		"textAlignment"						"center"
-		"font"								"Size 16"
+		"font"								"Size16"
 		"fgcolor"							"White"
 		
 		"pin_to_sibling" 					"Medic"
@@ -767,7 +767,7 @@
 		"tabPosition"						"0"
 		"labelText"							"%numSniper%"
 		"textAlignment"						"center"
-		"font"								"Size 16"
+		"font"								"Size16"
 		"fgcolor"							"White"
 		
 		"pin_to_sibling" 					"Sniper"
@@ -791,7 +791,7 @@
 		"tabPosition"						"0"
 		"labelText"							"%numSpy%"
 		"textAlignment"						"center"
-		"font"								"Size 16"
+		"font"								"Size16"
 		"fgcolor"							"White"
 		
 		"pin_to_sibling" 					"Spy"

@@ -15,7 +15,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"ModeNameLabel"
-			"font"					"Size 15"
+			"font"					"Size15"
 			"labelText"				"%modename%"
 			"textAlignment"			"center"
 			"xpos"					"0"
@@ -36,7 +36,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"DescLabel"
-			"font"					"Size 11"
+			"font"					"Size11"
 			"labelText"				"%description%"
 			"textAlignment"			"north"
 			"xpos"					"0"
@@ -100,7 +100,7 @@
 		"enabled"					"1"
 		"tabPosition"				"0"
 		"labelText"					"#TF_Training_SelectMode"
-		"font"						"Size 15"
+		"font"						"Size15"
 		"textAlignment"				"center"
 		"textinsetx"				"50"
 		"dulltext"					"0"

@@ -32,7 +32,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"RespawnTimeLabel"
-			"font"			"Size 15"
+			"font"			"Size15"
 			"labelText"		"%time%"
 			"textAlignment" "center"
 			"xpos"			"0"

@@ -98,7 +98,7 @@
 	{	
 		"ControlName"				"Label"
 		"fieldName"					"DisguiseNameLabel"
-		"font"						"Size 11"
+		"font"						"Size11"
 		"xpos"						"-43"
 		"ypos"						"0"
 		"zpos"						"10"
@@ -121,7 +121,7 @@
 	{	
 		"ControlName"				"Label"
 		"fieldName"					"WeaponNameLabel"
-		"font"						"Size 11"
+		"font"						"Size11"
 		"xpos"						"0"
 		"ypos"						"-10"
 		"zpos"						"10"

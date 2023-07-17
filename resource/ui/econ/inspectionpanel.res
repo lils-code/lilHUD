@@ -343,7 +343,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"PaintkitLabel"
-			"font"									"Size 12"
+			"font"									"Size12"
 			"labelText"								"#TF_ItemPreview_ItemPaintkit"
 			"textAlignment"							"west"
 			"xpos"									"-5"
@@ -368,7 +368,7 @@
 		{
 			"ControlName"							"ComboBox"
 			"fieldName"								"ComboBoxValidPaintkits"
-			"Font"									"Size 12"
+			"Font"									"Size12"
 			"wrap"									"0"
 			"xpos"									"3"
 			"ypos"									"0"
@@ -481,7 +481,7 @@
 		{
 			"ControlName"							"ComboBox"
 			"fieldName"								"ComboBoxValidItems"
-			"Font"									"Size 12"
+			"Font"									"Size12"
 			"wrap"									"0"
 			"xpos"									"3"
 			"ypos"									"24"
@@ -563,7 +563,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"ItemLabel"
-			"font"									"Size 12"
+			"font"									"Size12"
 			"labelText"								"#TF_ItemPreview_ItemPreview"
 			"textAlignment"							"west"
 			"xpos"									"8"
@@ -694,7 +694,7 @@
 			"enabled"								"1"
 			"tabPosition"							"0"
 			"labelText"								"#TF_ItemPreview_PaintkitSeed"
-			"font"									"Size 10"
+			"font"									"Size10"
 			"actionsignallevel" 					"2"
 			"use_proportional_insets" 				"1"
 			"textAlignment"							"center"
@@ -844,7 +844,7 @@
 			"wide"									"80"
 			"tall"									"26"
 			"labelText"								"#TF_ItemAd_ViewOnMarket"
-			"font"									"Size 10"
+			"font"									"Size10"
 			"textinsetx"							"0"
 			"textAlignment"							"center"
 		

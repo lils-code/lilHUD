@@ -19,7 +19,7 @@
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"TitleLabel"
-			"font"						"Size 15"
+			"font"						"Size15"
 			"labelText"					"#MMenu_CompetitiveAccess"
 			"textAlignment"				"center"
 			"xpos"						"5"
@@ -39,7 +39,7 @@
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"TextLabel"
-			"font"						"Size 10"
+			"font"						"Size10"
 			"labelText"					"#MMenu_CompetitiveAccess_Desc"
 			"textAlignment"				"north-west"
 			"xpos"						"20"
@@ -61,7 +61,7 @@
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"Option1Label"
-			"font"						"Size 14"
+			"font"						"Size14"
 			"labelText"					"#MMenu_CompetitiveAccessOption1"
 			"textAlignment"				"center"
 			"xpos"						"10"
@@ -81,7 +81,7 @@
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"Option1DescLabel"
-			"font"						"Size 10"
+			"font"						"Size10"
 			"labelText"					"#MMenu_CompetitiveAccessOption1_Desc"
 			"textAlignment"				"north-west"
 			"xpos"						"20"
@@ -370,7 +370,7 @@
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"Option2Label"
-			"font"						"Size 14"
+			"font"						"Size14"
 			"labelText"					"#MMenu_CompetitiveAccessOption2"
 			"textAlignment"				"center"
 			"xpos"						"10"
@@ -390,7 +390,7 @@
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"Option2DescLabel"
-			"font"						"Size 10"
+			"font"						"Size10"
 			"labelText"					"#MMenu_CompetitiveAccessOption2_Desc"
 			"textAlignment"				"north-west"
 			"xpos"						"20"

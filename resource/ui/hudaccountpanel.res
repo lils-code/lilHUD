@@ -8,7 +8,7 @@
 		"PositiveColor"			"GreenLight"
 		"NegativeColor"			"White"			//DEAD
 		"delta_lifetime"		"1.5"
-		"delta_item_font"		"Size 18"
+		"delta_item_font"		"Size18"
 	}
 	
 	"AccountValue"
@@ -29,7 +29,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"Size 18"
+		"font"					"Size18"
 		"fgcolor"				"White"
 	}
 	
@@ -51,7 +51,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"Size 18"
+		"font"					"Size18"
 		"fgcolor"				"Shadows"
 		"pin_to_sibling"		"AccountValue"
 	}

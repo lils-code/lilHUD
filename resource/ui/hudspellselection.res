@@ -51,7 +51,7 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ActionText"
-		"font"					"Size 7"
+		"font"					"Size7"
 		"labelText"				"%actiontext%"
 		"textAlignment" 		"center"
 		"xpos"					"-16"
@@ -70,7 +70,7 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"CountText"
-		"font"					"Size 20"
+		"font"					"Size20"
 		"labelText"				"%counttext%"
 		"textAlignment" 		"west"
 		"xpos"					"1"
@@ -89,7 +89,7 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"CountTextShadow"
-		"font"					"Size 20"
+		"font"					"Size20"
 		"fgcolor"				"Shadows"
 		"labelText"				"%counttext%"
 		"textAlignment" 		"west"

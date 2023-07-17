@@ -40,7 +40,7 @@
 			"textAlignment"	"west"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"font"			"Size 10"
+			"font"			"Size10"
 			"wrap"			"1"
 			"AllCaps"			"1"
 			"fgcolor_override"	"BlueLight"
@@ -60,7 +60,7 @@
 			"textAlignment"	"north-west"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"font"			"Size 8"
+			"font"			"Size8"
 			"wrap"			"1"
 			"AllCaps"			"1"
 			"fgcolor_override"	"White"
@@ -94,7 +94,7 @@
 			"textAlignment"		"north-west"
 			"dulltext"		"0"
 			"brighttext"		"0"
-			"font"			"Size 8"
+			"font"			"Size8"
 			"wrap"			"1"
 			"AllCaps"			"1"
 			"fgcolor_override"	"White"
@@ -114,7 +114,7 @@
 			"textAlignment"	"north-west"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"font"			"Size 10"
+			"font"			"Size10"
 			"fgcolor_override"	"White"
 			"wrap"			"1"
 			"AllCaps"			"1"
@@ -167,7 +167,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"AllCaps"			"1"
-			"font"			"Size 8"
+			"font"			"Size8"
 			"fgcolor_override"	"White"
 		}
 		
@@ -200,7 +200,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"AllCaps"			"1"
-			"font"			"Size 10"
+			"font"			"Size10"
 			"fgcolor_override"	"White"
 		}
 		
@@ -220,7 +220,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"AllCaps"			"1"
-			"font"			"Size 8"
+			"font"			"Size8"
 			"fgcolor_override"	"White"
 		}
 		
@@ -253,7 +253,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"AllCaps"			"1"
-			"font"			"Size 10"
+			"font"			"Size10"
 			"fgcolor_override"	"White"
 		}
 		
@@ -273,7 +273,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"AllCaps"			"1"
-			"font"			"Size 8"
+			"font"			"Size8"
 			"fgcolor_override"	"White"
 		}
 		
@@ -306,7 +306,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"AllCaps"			"1"
-			"font"			"Size 8"
+			"font"			"Size8"
 			"fgcolor_override"	"White"
 		}
 		
@@ -339,7 +339,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"AllCaps"			"1"
-			"font"			"Size 8"
+			"font"			"Size8"
 			"fgcolor_override"	"White"
 		}
 		
@@ -384,7 +384,7 @@
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"AllCaps"			"1"
-			"font"			"Size 8"
+			"font"			"Size8"
 			"fgcolor_override"	"White"
 		}
 		
@@ -449,7 +449,7 @@
 			"textAlignment"	"west"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"font"			"Size 10"
+			"font"			"Size10"
 			"wrap"			"1"
 			"AllCaps"			"1"
 			"fgcolor_override"	"RedLight"
@@ -469,7 +469,7 @@
 			"textAlignment"	"north-west"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"font"			"Size 8"
+			"font"			"Size8"
 			"wrap"			"1"
 			"AllCaps"			"1"
 			"fgcolor_override"	"White"
@@ -517,7 +517,7 @@
 			"textAlignment"	"west"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"font"			"Size 10"
+			"font"			"Size10"
 			"wrap"			"1"
 			"AllCaps"			"1"
 			"fgcolor_override"	"RedLight"
@@ -537,7 +537,7 @@
 			"textAlignment"	"north-west"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"font"			"Size 8"
+			"font"			"Size8"
 			"wrap"			"1"
 			"AllCaps"			"1"
 			"fgcolor_override"	"White"
@@ -563,11 +563,11 @@
 		"PaintBackground"	"0"
 		"AllCaps"			"1"
 
-		"header_font"		"Size 12"
+		"header_font"		"Size12"
 		"header_fgcolor"	"BlueLight"
 
 		"issue_width"		"180"		
-		"issue_font"		"Size 8"
+		"issue_font"		"Size8"
 		"issue_fgcolor"		"White"
 		"issue_fgcolor_disabled"	"WhiteDark"
 		
@@ -577,7 +577,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TitleLabel"
-			"font"			"Size 15"
+			"font"			"Size15"
 			"labelText"		"#TF_Vote_Title"
 			"textAlignment"	"north"
 			"xpos"			"0"
@@ -632,7 +632,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"ComboLabel"
-			"font"			"Size 11"
+			"font"			"Size11"
 			"labelText"		"%combo_label%"
 			"textAlignment"	"east"
 			"xpos"			"5"
@@ -651,7 +651,7 @@
 		{
 			"ControlName"		"ComboBox"
 			"fieldName"			"ComboBox"
-			"Font"				"Size 11"
+			"Font"				"Size11"
 			"xpos"				"85"
 			"ypos"				"245"
 			"zpos"				"1"
@@ -697,7 +697,7 @@
 			"brighttext"	"0"
 			"Command"		"CallVote"
 			"Default"		"0"
-			"font"			"Size 15"
+			"font"			"Size15"
 			
 			"AllCaps"					"1"
 		
@@ -748,7 +748,7 @@
 			"brighttext"	"0"
 			"Command"		"Close"
 			"Default"		"0"
-			"font"			"Size 15"
+			"font"			"Size15"
 			
 			"AllCaps"					"1"
 		

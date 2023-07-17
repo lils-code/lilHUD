@@ -20,7 +20,7 @@
 	{	
 		"ControlName"				"Label"
 		"fieldName"					"TitleLabel"
-		"font"						"Size 15"
+		"font"						"Size15"
 		"xpos"						"0"
 		"ypos"						"8"
 		"zpos"						"0"
@@ -43,7 +43,7 @@
 	{	
 		"ControlName"				"Label"
 		"fieldName"					"EllipsesLabel"
-		"font"						"Size 15"
+		"font"						"Size15"
 		"xpos"						"0"
 		"ypos"						"42"
 		"zpos"						"0"
@@ -64,7 +64,7 @@
 	{	
 		"ControlName"				"Label"
 		"fieldName"					"DurationLabel"
-		"font"						"Size 15"
+		"font"						"Size15"
 		"xpos"						"0"
 		"ypos"						"52"
 		"zpos"						"0"
@@ -96,7 +96,7 @@
 		"enabled"					"1"
 		"tabPosition"				"0"
 		"labelText"					"#Cancel"
-		"font"						"Size 15"
+		"font"						"Size15"
 		"textAlignment"				"center"
 		"AllCaps"					"1"
 		"dulltext"					"0"

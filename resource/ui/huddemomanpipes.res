@@ -19,7 +19,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"Size 8"
+		"font"					"Size8"
 	}
 
 	"ChargeMeter"
@@ -77,7 +77,7 @@
 			"textAlignment"		"center"
 			"dulltext"			"0"
 			"brighttext"		"0"
-			"font"				"Size 18"
+			"font"				"Size18"
 			"fgcolor"			"White"
 		}
 		
@@ -99,7 +99,7 @@
 			"textAlignment"		"center"
 			"dulltext"			"0"
 			"brighttext"		"0"
-			"font"				"Size 18"
+			"font"				"Size18"
 			"fgcolor"			"Shadows"
 		}
 	}

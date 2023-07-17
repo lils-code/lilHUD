@@ -79,7 +79,7 @@
 		"textAlignment"			"east"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"Size 33"
+		"font"					"Size33"
 	}
 	
 	"ItemEffectMeterCountShadow"
@@ -100,7 +100,7 @@
 		"textAlignment"			"east"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"Size 33"
+		"font"					"Size33"
 		"fgcolor"				"Shadows"
 		
 		"pin_to_sibling"		"ItemEffectMeterCount"

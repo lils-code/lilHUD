@@ -80,7 +80,7 @@
 			{
 				"ControlName"				"CExLabel"
 				"fieldName"					"playername"
-				"font"						"Size 7"
+				"font"						"Size7"
 				"xpos"						"4"
 				"ypos"						"22"
 				"zpos"						"5"
@@ -419,7 +419,7 @@
 	{	
 		"ControlName"						"CExLabel"
 		"fieldName"							"TournamentConditionLabel"
-		"font"								"Size 10"
+		"font"								"Size10"
 		"fgcolor"							"White"
 		"xpos"								"0"
 		"ypos"								"0"
@@ -457,7 +457,7 @@
 	{
 		"ControlName"						"CExLabel"
 		"fieldName"							"TournamentInstructionsLabel"
-		"font"								"Size 12"
+		"font"								"Size12"
 		"xpos"								"c-125"
 		"ypos"								"38"
 		"zpos"								"1"
@@ -473,7 +473,7 @@
 		
 		if_mvm
 		{
-			"font"							"Size 12"
+			"font"							"Size12"
 			"xpos"							"0"
 			"ypos"							"105"
 			"wide"							"f0"
@@ -493,7 +493,7 @@
 			"xpos"							"0"
 			"wide"							"f0"
 			"ypos"							"118"
-			"font"							"Size 12"
+			"font"							"Size12"
 			"tall"							"16"
 		}
 	}
@@ -502,7 +502,7 @@
 	{	
 		"ControlName"						"CExLabel"
 		"fieldName"							"CountdownLabel"
-		"font"								"Size 24 Shadow"
+		"font"								"Size24Shadow"
 		"xpos"								"c-20"
 		"ypos"								"r55"
 		"wide"								"40"

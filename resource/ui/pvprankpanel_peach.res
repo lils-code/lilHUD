@@ -213,7 +213,7 @@
 			"tall"					"50"
 			"visible"				"1"
 			"enabled"				"1"
-			"font"					"Size 40"
+			"font"					"Size40"
 			"fgcolor_override"		"WhiteTransparent"
 			"textAlignment"			"west"
 			"labelText"				"%name%"
@@ -237,7 +237,7 @@
 			"tall"					"50"
 			"visible"				"1"
 			"enabled"				"1"
-			"font"					"Size 40"
+			"font"					"Size40"
 			"fgcolor_override"		"WhiteTransparent"
 			"textAlignment"			"west"
 			"AllCaps"				"1"
@@ -258,9 +258,9 @@
 
 			"fonts"
 			{
-				"0"					"Size 40"
-				"1"					"Size 12"
-				"2"					"Size 40"
+				"0"					"Size40"
+				"1"					"Size12"
+				"2"					"Size40"
 			}
 		}
 
@@ -276,7 +276,7 @@
 			"tall"					"50"
 			"visible"				"1"
 			"enabled"				"1"
-			"font"					"Size 40"
+			"font"					"Size40"
 			"fgcolor_override"		"WhiteTransparent"
 			"textAlignment"			"west"
 			"AllCaps"				"1"
@@ -297,9 +297,9 @@
 
 			"fonts"
 			{
-				"0"					"Size 40"
-				"1"					"Size 40"
-				"2"					"Size 24"
+				"0"					"Size40"
+				"1"					"Size40"
+				"2"					"Size24"
 			}
 
 			"colors"
@@ -431,7 +431,7 @@
 					"tall"			"7"
 					"visible"		"1"
 					"enabled"		"1"
-					"font"			"Size 9"
+					"font"			"Size9"
 					"fgcolor_override"	"WhiteTransparent"
 					"textAlignment"	"east"
 					"labelText"		"%current_xp%"
@@ -459,7 +459,7 @@
 					"tall"			"7"
 					"visible"		"1"
 					"enabled"		"1"
-					"font"			"Size 9"
+					"font"			"Size9"
 					"fgcolor_override"	"WhiteTransparent"
 					"textAlignment"	"east"
 					"labelText"		"%next_level_xp%"

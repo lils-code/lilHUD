@@ -31,7 +31,7 @@ Resource/UI/HudPasstimePassNotify.res
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TextInPassRange"
-			"font"			"Size 12"
+			"font"			"Size12"
 			"xpos"			"-50"
 			"ypos"			"-5"
 			"zpos"			"3"
@@ -49,7 +49,7 @@ Resource/UI/HudPasstimePassNotify.res
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TextLockedOn"
-			"font"			"Size 12"
+			"font"			"Size12"
 			"xpos"			"-50"
 			"ypos"			"-5"
 			"zpos"			"3"
@@ -67,7 +67,7 @@ Resource/UI/HudPasstimePassNotify.res
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TextPassIncoming"
-			"font"			"Size 12"
+			"font"			"Size12"
 			"xpos"			"-50"
 			"ypos"			"-5"
 			"zpos"			"3"
@@ -85,7 +85,7 @@ Resource/UI/HudPasstimePassNotify.res
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"TextPlayerName"
-			"font"			"Size 10"
+			"font"			"Size10"
 			"xpos"			"-50"
 			"ypos"			"17"
 			"zpos"			"3"

@@ -15,7 +15,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"Title"
-		"font"			"Size 24"
+		"font"			"Size24"
 		"labelText"		"#TF_UsePaintkit_Panel_Title"
 		"textAlignment"	"north"
 		"xpos"			"cs-0.5"
@@ -34,7 +34,7 @@
 	{
 		"ControlName"	"Label"
 		"fieldName"		"DescText"
-		"font"			"Size 13"
+		"font"			"Size13"
 		"labelText"		"#TF_UsePaintkit_Panel_Desc"
 		"textAlignment"	"north"
 		"xpos"			"cs-0.5"
@@ -110,7 +110,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"WorkingText"
-			"font"			"Size 15"
+			"font"			"Size15"
 			"labelText"		"#TF_UsePaintkit_Working"
 			"textAlignment"	"north"
 			"xpos"			"cs-0.5"
@@ -157,7 +157,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"SuccessText"
-			"font"			"Size 24"
+			"font"			"Size24"
 			"labelText"		"#AbuseReport_SucceededTitle"
 			"textAlignment"	"north"
 			"xpos"			"cs-0.5"
@@ -204,7 +204,7 @@
 		{
 			"ControlName"	"Label"
 			"fieldName"		"FailureText"
-			"font"			"Size 15"
+			"font"			"Size15"
 			"labelText"		"#TF_UsePaintkit_Failed"
 			"textAlignment"	"north"
 			"xpos"			"cs-0.5"
@@ -245,7 +245,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#GameUI_CancelBold"
-		"font"			"Size 16"
+		"font"			"Size16"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
 		"dulltext"		"0"
@@ -282,7 +282,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#TF_QuestView_RedeemReward"
-		"font"			"Size 16"
+		"font"			"Size16"
 		"textAlignment"	"center"
 		"textinsetx"	"50"
 		"dulltext"		"0"

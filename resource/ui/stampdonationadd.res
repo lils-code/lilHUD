@@ -24,7 +24,7 @@
 	{
 		"ControlName"					"CExLabel"
 		"fieldName"						"TitleLabel"
-		"font"							"Size 24"
+		"font"							"Size24"
 		"labelText"						"#ConfirmTitle"
 		"textAlignment"					"north"
 		"xpos"							"0"
@@ -44,7 +44,7 @@
 	{
 		"ControlName"					"CExLabel"
 		"fieldName"						"ExplanationLabel"
-		"font"							"Size 11"
+		"font"							"Size11"
 		"labelText"						"%text%"
 		"textAlignment"					"north-west"
 		"xpos"							"35"
@@ -65,7 +65,7 @@
 	{
 		"ControlName"					"CExLabel"
 		"fieldName"						"ExplanationLabel2"
-		"font"							"Size 11"
+		"font"							"Size11"
 		"labelText"						"and earn the world traveler's hat to track contributions: "
 		"textAlignment"					"north"
 		"xpos"							"40"
@@ -128,7 +128,7 @@
 		"enabled"						"1"
 		"tabPosition"					"0"
 		"labelText"						"#Store_Nope"
-		"font"							"Size 15"
+		"font"							"Size15"
 		"textAlignment"					"center"
 		"textinsetx"					"50"
 		"dulltext"						"0"
@@ -165,7 +165,7 @@
 		"enabled"						"1"
 		"tabPosition"					"0"
 		"labelText"						"#Store_AddToCart"
-		"font"							"Size 15"
+		"font"							"Size15"
 		"textAlignment"					"center"
 		"textinsetx"					"50"
 		"dulltext"						"0"
@@ -207,7 +207,7 @@
 	{
 		"ControlName"					"CExLabel"
 		"fieldName"						"PriceLabel"
-		"font"							"Size 15"
+		"font"							"Size15"
 		"labelText"						"%price%"
 		"textAlignment"					"center"
 		"xpos"							"270"

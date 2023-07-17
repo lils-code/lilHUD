@@ -13,7 +13,7 @@
 		"enabled"			"1"
 		"labelText"			"%Health%"
 		"textAlignment"		"center"
-		"font"				"Size 12"
+		"font"				"Size12"
 		"fgcolor"			"Health"
 	}
 	
@@ -30,7 +30,7 @@
 		"enabled"			"1"
 		"labelText"			"%Health%"
 		"textAlignment"		"center"
-		"font"				"Size 12"
+		"font"				"Size12"
 		"fgcolor"			"Shadows"
 		"pin_to_sibling"	"PlayerStatusHealthValueSpectator"
 	}

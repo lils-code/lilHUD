@@ -11,7 +11,7 @@
 	{	
 		"ControlName"			"CExLabel"
 		"fieldName"				"CantBuildReason"
-		"font"					"Size 9"
+		"font"					"Size9"
 		"xpos"					"0"
 		"ypos"					"24"
 		"zpos"					"1"

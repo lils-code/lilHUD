@@ -59,7 +59,7 @@
 		"textAlignment"				"center"
 		"dulltext"					"0"
 		"brighttext"				"0"
-		"font"						"Size 10"
+		"font"						"Size10"
 		"AllCaps"					"1"
 		"alpha"						"125"
 		"fgcolor"					"White"
@@ -137,7 +137,7 @@
 			"enabled"				"1"
 			"textAlignment"			"center"	
 			"labelText"				"%flagvalue%"
-			"font"					"Size 24"
+			"font"					"Size24"
 			"fgcolor"				"White"	
 			"proportionalToParent"	"1"	
 		}	
@@ -155,7 +155,7 @@
 			"enabled"				"1"
 			"textAlignment"			"center"	
 			"labelText"				"%flagvalue%"
-			"font"					"Size 24"
+			"font"					"Size24"
 			"fgcolor"				"Black"	
 			"proportionalToParent"	"1"	
 		}
@@ -252,7 +252,7 @@
 				"textAlignment"			"center"
 				"textinsetx"			"0"
 				"labelText"				"%score%"
-				"font"					"Size 22"
+				"font"					"Size22"
 				"fgcolor"				"WhiteTransparent"
 			}
 			
@@ -321,7 +321,7 @@
 				"textAlignment"			"center"
 				"textinsetx"			"0"
 				"labelText"				"%score%"
-				"font"					"Size 22"
+				"font"					"Size22"
 				"fgcolor"				"WhiteTransparent"
 			}
 		
@@ -408,7 +408,7 @@
 				"enabled"		"1"
 				"textAlignment"	"center"	
 				"labelText"		"%intelvalue%"
-				"font"			"Size 16"
+				"font"			"Size16"
 				"fgcolor"		"White"		
 				"bgcolor_override"		"Blank"
 				"proportionalToParent"	"1"
@@ -427,7 +427,7 @@
 				"enabled"		"1"
 				"textAlignment"	"center"	
 				"labelText"		"%intelvalue%"
-				"font"			"Size 16"	
+				"font"			"Size16"	
 				"fgcolor"		"Black"
 				"proportionalToParent"	"1"
 			}
@@ -508,7 +508,7 @@
 				"enabled"		"1"
 				"textAlignment"	"center"	
 				"labelText"		"%intelvalue%"
-				"font"			"Size 16"
+				"font"			"Size16"
 				"fgcolor"		"White"		
 				"bgcolor_override"		"Blank"
 				"proportionalToParent"	"1"
@@ -527,7 +527,7 @@
 				"enabled"		"1"
 				"textAlignment"	"center"	
 				"labelText"		"%intelvalue%"
-				"font"			"Size 16"	
+				"font"			"Size16"	
 				"fgcolor"		"Black"	
 				"proportionalToParent"	"1"
 			}

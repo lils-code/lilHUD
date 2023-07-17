@@ -32,8 +32,8 @@
 		"labelText"						"%metal%"
 		"textAlignment"					"center"
 		"fgcolor"						"Last Damage Done"
-		"font"							"Size 18"
-		"font_minmode"					"Size 24"
+		"font"							"Size18"
+		"font_minmode"					"Size24"
 	}
 	
 	"DamageAccountValueShadow"
@@ -51,8 +51,8 @@
 		"labelText"						"%metal%"
 		"textAlignment"					"center"
 		"fgcolor"						"Shadows"
-		"font"							"Size 18"
-		"font_minmode"					"Size 24"
+		"font"							"Size18"
+		"font_minmode"					"Size24"
 		
 		"pin_to_sibling"				"DamageAccountValue"
 	}

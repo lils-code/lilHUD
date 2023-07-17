@@ -34,7 +34,7 @@
 		"AllCaps"		"1"
 		"dulltext"		"0"
 		"brighttext"	"1"
-		"font"			"Size 32"
+		"font"			"Size32"
 		"fgcolor"		"White"
 	}	
 
@@ -42,7 +42,7 @@
 	{
 		"ControlName"	"CExRichText"
 		"fieldName"		"TFTextMessage"
-		"font"			"Size 12"
+		"font"			"Size12"
 		"xpos"			"cs-0.5"
 		"ypos"			"95"
 		"zpos"			"3"
@@ -93,7 +93,7 @@
 		"brighttext"						"0"
 		"command"							"okay"
 		"default"							"1"
-		"font"								"Size 24"
+		"font"								"Size24"
 		
 		"paintbackground"					"1"
 		

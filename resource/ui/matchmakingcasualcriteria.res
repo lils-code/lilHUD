@@ -189,7 +189,7 @@
 			"proportionaltoparent"			"1"
 			"labeltext"						"#TF_Casual_MapSelection"
 			"textAlignment"					"north-west"
-			"font"							"Size 14"
+			"font"							"Size14"
 		
 			"mouseinputenabled"				"0"
 		}
@@ -206,7 +206,7 @@
 			"proportionaltoparent"			"1"
 			"labeltext"						"%selected_maps_count%"
 			"textAlignment"					"west"
-			"font"							"Size 14"
+			"font"							"Size14"
 			"fgcolor_override"				"White"
 			"AllCaps"						"1"
 		
@@ -225,7 +225,7 @@
 			"proportionaltoparent"			"1"
 			"labeltext"						"#TF_Casual_QueueEstimation"
 			"textAlignment"					"east"
-			"font"							"Size 14"
+			"font"							"Size14"
 			"fgcolor_override"				"White"
 			"AllCaps"						"1"
 			"textinsetx"					"5"

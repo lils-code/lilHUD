@@ -68,7 +68,7 @@
 	{	
 		"ControlName"			"CExLabel"
 		"fieldName"				"TitleLabel"
-		"font"					"Size 16"
+		"font"					"Size16"
 		"xpos"					"-4"
 		"ypos"					"11"
 		"zpos"					"105"
@@ -92,7 +92,7 @@
 	{	
 		"ControlName"			"CExLabel"
 		"fieldName"				"TitleLabelDropshadow"
-		"font"					"Size 16"
+		"font"					"Size16"
 		"xpos"					"-1"
 		"ypos"					"-1"
 		"zpos"					"104"
@@ -115,7 +115,7 @@
 	{	
 		"ControlName"			"CExLabel"
 		"fieldName"				"ToggleLabel"
-		"font"					"Size 8"
+		"font"					"Size8"
 		"xpos"					"-66"
 		"ypos"					"7"
 		"zpos"					"105"
@@ -138,7 +138,7 @@
 	{	
 		"ControlName"			"CExLabel"
 		"fieldName"				"ToggleLabelDropshadow"
-		"font"					"Size 8"
+		"font"					"Size8"
 		"xpos"					"-1"
 		"ypos"					"-1"
 		"zpos"					"104"
@@ -432,7 +432,7 @@
 	{	
 		"ControlName"			"CExLabel"
 		"fieldName"				"NumberLabel"
-		"font"					"Size 60"
+		"font"					"Size60"
 		"fgcolor"				"White"
 		"xpos"					"0"
 		"ypos"					"0"
@@ -457,7 +457,7 @@
 	{	
 		"ControlName"			"CExLabel"
 		"fieldName"				"NumberLabel"
-		"font"					"Size 60"
+		"font"					"Size60"
 		"fgcolor"				"White"
 		"xpos"					"0"
 		"ypos"					"0"
@@ -482,7 +482,7 @@
 	{	
 		"ControlName"			"CExLabel"
 		"fieldName"				"NumberLabel"
-		"font"					"Size 60"
+		"font"					"Size60"
 		"fgcolor"				"White"
 		"xpos"					"0"
 		"ypos"					"0"

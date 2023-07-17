@@ -91,7 +91,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"PopFileLabel"
-		"font"						"Size 14"
+		"font"						"Size14"
 		"labelText"					"%popfile%"
 		"textAlignment"				"west"
 		"xpos"						"-8"
@@ -131,7 +131,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"DifficultyValue"
-			"font"					"Size 14"
+			"font"					"Size14"
 			"labelText"				"%difficultyvalue%"
 			"textAlignment"			"east"
 			"xpos"					"-8"

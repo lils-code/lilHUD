@@ -51,7 +51,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"Size 8"
+		"font"					"Size8"
 	}
 	
 	"ItemEffectMeterBG"

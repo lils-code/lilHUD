@@ -12,7 +12,7 @@ Scheme
 		//////////////////////////////// SUNSET FONTS /////////////////////////////////
 		///////////////////////////////////////////////////////////////////////////////
 		
-		"Size 5"
+		"Size5"
 		{
 			"1"
 			{
@@ -23,7 +23,7 @@ Scheme
 			}
 		}
 		
-		"Size 5 Shadow"
+		"Size5Shadow"
 		{
 			"1"
 			{
@@ -35,7 +35,7 @@ Scheme
 			}
 		}
 		
-		"Size 6"
+		"Size6"
 		{
 			"1"
 			{
@@ -46,7 +46,7 @@ Scheme
 			}
 		}
 	
-		"Size 6 Shadow"
+		"Size6Shadow"
 		{
 			"1"
 			{
@@ -58,7 +58,7 @@ Scheme
 			}
 		}
 		
-		"Size 7"
+		"Size7"
 		{
 			"1"
 			{
@@ -69,7 +69,7 @@ Scheme
 			}
 		}
 		
-		"Size 7 Shadow"
+		"Size7Shadow"
 		{
 			"1"
 			{
@@ -81,7 +81,7 @@ Scheme
 			}
 		}
 		
-		"Size 8"
+		"Size8"
 		{
 			"1"
 			{
@@ -92,7 +92,7 @@ Scheme
 			}
 		}
 		
-		"Size 8 Shadow"
+		"Size8Shadow"
 		{
 			"1"
 			{
@@ -104,7 +104,7 @@ Scheme
 			}
 		}
 		
-		"Size 9"
+		"Size9"
 		{
 			"1"
 			{
@@ -115,7 +115,7 @@ Scheme
 			}
 		}
 		
-		"Size 9 Shadow"
+		"Size9Shadow"
 		{
 			"1"
 			{
@@ -127,7 +127,7 @@ Scheme
 			}
 		}
 		
-		"Size 10"
+		"Size10"
 		{
 			"1"
 			{
@@ -138,7 +138,7 @@ Scheme
 			}
 		}
 		
-		"Size 10 Shadow"
+		"Size10Shadow"
 		{
 			"1"
 			{
@@ -150,7 +150,7 @@ Scheme
 			}
 		}
 		
-		"Size 11"
+		"Size11"
 		{
 			"1"
 			{
@@ -161,7 +161,7 @@ Scheme
 			}
 		}
 		
-		"Size 11 Shadow"
+		"Size11Shadow"
 		{
 			"1"
 			{
@@ -173,7 +173,7 @@ Scheme
 			}
 		}
 		
-		"Size 12"
+		"Size12"
 		{
 			"1"
 			{
@@ -184,7 +184,7 @@ Scheme
 			}
 		}
 		
-		"Size 12 Shadow"
+		"Size12Shadow"
 		{
 			"1"
 			{
@@ -196,7 +196,7 @@ Scheme
 			}
 		}
 		
-		"Size 13"
+		"Size13"
 		{
 			"1"
 			{
@@ -207,7 +207,7 @@ Scheme
 			}
 		}
 		
-		"Size 13 Shadow"
+		"Size13Shadow"
 		{
 			"1"
 			{
@@ -219,7 +219,7 @@ Scheme
 			}
 		}
 		
-		"Size 14"
+		"Size14"
 		{
 			"1"
 			{
@@ -230,7 +230,7 @@ Scheme
 			}
 		}
 		
-		"Size 14 Shadow"
+		"Size14Shadow"
 		{
 			"1"
 			{
@@ -242,7 +242,7 @@ Scheme
 			}
 		}
 		
-		"Size 15"
+		"Size15"
 		{
 			"1"
 			{
@@ -253,7 +253,7 @@ Scheme
 			}
 		}
 		
-		"Size 15 Shadow"
+		"Size15Shadow"
 		{
 			"1"
 			{
@@ -265,7 +265,7 @@ Scheme
 			}
 		}
 		
-		"Size 16"
+		"Size16"
 		{
 			"1"
 			{
@@ -276,7 +276,7 @@ Scheme
 			}
 		}
 		
-		"Size 16 Shadow"
+		"Size16Shadow"
 		{
 			"1"
 			{
@@ -288,7 +288,7 @@ Scheme
 			}
 		}
 		
-		"Size 17"
+		"Size17"
 		{
 			"1"
 			{
@@ -299,7 +299,7 @@ Scheme
 			}
 		}
 		
-		"Size 17 Shadow"
+		"Size17Shadow"
 		{
 			"1"
 			{
@@ -311,7 +311,7 @@ Scheme
 			}
 		}
 		
-		"Size 18"
+		"Size18"
 		{
 			"1"
 			{
@@ -322,7 +322,7 @@ Scheme
 			}
 		}
 		
-		"Size 18 Shadow"
+		"Size18Shadow"
 		{
 			"1"
 			{
@@ -334,7 +334,7 @@ Scheme
 			}
 		}
 		
-		"Size 19"
+		"Size19"
 		{
 			"1"
 			{
@@ -345,7 +345,7 @@ Scheme
 			}
 		}
 		
-		"Size 19 Shadow"
+		"Size19Shadow"
 		{
 			"1"
 			{
@@ -357,7 +357,7 @@ Scheme
 			}
 		}
 		
-		"Size 20"
+		"Size20"
 		{
 			"1"
 			{
@@ -368,7 +368,7 @@ Scheme
 			}
 		}
 		
-		"Size 20 Shadow"
+		"Size20Shadow"
 		{
 			"1"
 			{
@@ -380,7 +380,7 @@ Scheme
 			}
 		}
 		
-		"Size 21"
+		"Size21"
 		{
 			"1"
 			{
@@ -391,7 +391,7 @@ Scheme
 			}
 		}
 		
-		"Size 21 Shadow"
+		"Size21Shadow"
 		{
 			"1"
 			{
@@ -403,7 +403,7 @@ Scheme
 			}
 		}
 		
-		"Size 22"
+		"Size22"
 		{
 			"1"
 			{
@@ -414,7 +414,7 @@ Scheme
 			}
 		}
 		
-		"Size 22 Shadow"
+		"Size22Shadow"
 		{
 			"1"
 			{
@@ -426,7 +426,7 @@ Scheme
 			}
 		}
 		
-		"Size 23"
+		"Size23"
 		{
 			"1"
 			{
@@ -437,7 +437,7 @@ Scheme
 			}
 		}
 		
-		"Size 23 Shadow"
+		"Size23Shadow"
 		{
 			"1"
 			{
@@ -449,7 +449,7 @@ Scheme
 			}
 		}
 		
-		"Size 24"
+		"Size24"
 		{
 			"1"
 			{
@@ -460,7 +460,7 @@ Scheme
 			}
 		}
 		
-		"Size 24 Shadow"
+		"Size24Shadow"
 		{
 			"1"
 			{
@@ -472,7 +472,7 @@ Scheme
 			}
 		}
 		
-		"Size 25"
+		"Size25"
 		{
 			"1"
 			{
@@ -483,7 +483,7 @@ Scheme
 			}
 		}
 		
-		"Size 25 Shadow"
+		"Size25Shadow"
 		{
 			"1"
 			{
@@ -495,7 +495,7 @@ Scheme
 			}
 		}
 		
-		"Size 26"
+		"Size26"
 		{
 			"1"
 			{
@@ -506,7 +506,7 @@ Scheme
 			}
 		}
 		
-		"Size 26 Shadow"
+		"Size26Shadow"
 		{
 			"1"
 			{
@@ -518,7 +518,7 @@ Scheme
 			}
 		}
 		
-		"Size 27"
+		"Size27"
 		{
 			"1"
 			{
@@ -529,7 +529,7 @@ Scheme
 			}
 		}
 		
-		"Size 27 Shadow"
+		"Size27Shadow"
 		{
 			"1"
 			{
@@ -541,7 +541,7 @@ Scheme
 			}
 		}
 		
-		"Size 28"
+		"Size28"
 		{
 			"1"
 			{
@@ -552,7 +552,7 @@ Scheme
 			}
 		}
 		
-		"Size 28 Shadow"
+		"Size28Shadow"
 		{
 			"1"
 			{
@@ -564,7 +564,7 @@ Scheme
 			}
 		}
 		
-		"Size 29"
+		"Size29"
 		{
 			"1"
 			{
@@ -575,7 +575,7 @@ Scheme
 			}
 		}
 		
-		"Size 29 Shadow"
+		"Size29Shadow"
 		{
 			"1"
 			{
@@ -587,7 +587,7 @@ Scheme
 			}
 		}
 		
-		"Size 30"
+		"Size30"
 		{
 			"1"
 			{
@@ -598,7 +598,7 @@ Scheme
 			}
 		}
 		
-		"Size 30 Shadow"
+		"Size30Shadow"
 		{
 			"1"
 			{
@@ -610,7 +610,7 @@ Scheme
 			}
 		}
 		
-		"Size 31"
+		"Size31"
 		{
 			"1"
 			{
@@ -621,7 +621,7 @@ Scheme
 			}
 		}
 		
-		"Size 31 Shadow"
+		"Size31Shadow"
 		{
 			"1"
 			{
@@ -633,7 +633,7 @@ Scheme
 			}
 		}
 		
-		"Size 32"
+		"Size32"
 		{
 			"1"
 			{
@@ -644,7 +644,7 @@ Scheme
 			}
 		}
 		
-		"Size 32 Shadow"
+		"Size32Shadow"
 		{
 			"1"
 			{
@@ -656,7 +656,7 @@ Scheme
 			}
 		}
 		
-		"Size 33"
+		"Size33"
 		{
 			"1"
 			{
@@ -667,7 +667,7 @@ Scheme
 			}
 		}
 		
-		"Size 33 Shadow"
+		"Size33Shadow"
 		{
 			"1"
 			{
@@ -679,7 +679,7 @@ Scheme
 			}
 		}
 		
-		"Size 34"
+		"Size34"
 		{
 			"1"
 			{
@@ -690,7 +690,7 @@ Scheme
 			}
 		}
 		
-		"Size 34 Shadow"
+		"Size34Shadow"
 		{
 			"1"
 			{
@@ -702,7 +702,7 @@ Scheme
 			}
 		}
 		
-		"Size 35"
+		"Size35"
 		{
 			"1"
 			{
@@ -713,7 +713,7 @@ Scheme
 			}
 		}
 		
-		"Size 35 Shadow"
+		"Size35Shadow"
 		{
 			"1"
 			{
@@ -725,7 +725,7 @@ Scheme
 			}
 		}
 		
-		"Size 36"
+		"Size36"
 		{
 			"1"
 			{
@@ -736,7 +736,7 @@ Scheme
 			}
 		}
 		
-		"Size 36 Shadow"
+		"Size36Shadow"
 		{
 			"1"
 			{
@@ -748,7 +748,7 @@ Scheme
 			}
 		}
 		
-		"Size 37"
+		"Size37"
 		{
 			"1"
 			{
@@ -759,7 +759,7 @@ Scheme
 			}
 		}
 		
-		"Size 37 Shadow"
+		"Size37Shadow"
 		{
 			"1"
 			{
@@ -771,7 +771,7 @@ Scheme
 			}
 		}
 		
-		"Size 38"
+		"Size38"
 		{
 			"1"
 			{
@@ -782,7 +782,7 @@ Scheme
 			}
 		}
 		
-		"Size 38 Shadow"
+		"Size38Shadow"
 		{
 			"1"
 			{
@@ -794,7 +794,7 @@ Scheme
 			}
 		}
 		
-		"Size 39"
+		"Size39"
 		{
 			"1"
 			{
@@ -805,7 +805,7 @@ Scheme
 			}
 		}
 		
-		"Size 39 Shadow"
+		"Size39Shadow"
 		{
 			"1"
 			{
@@ -817,7 +817,7 @@ Scheme
 			}
 		}
 		
-		"Size 40"
+		"Size40"
 		{
 			"1"
 			{
@@ -828,7 +828,7 @@ Scheme
 			}
 		}
 		
-		"Size 40 Shadow"
+		"Size40Shadow"
 		{
 			"1"
 			{
@@ -840,7 +840,7 @@ Scheme
 			}
 		}
 		
-		"Size 41"
+		"Size41"
 		{
 			"1"
 			{
@@ -851,7 +851,7 @@ Scheme
 			}
 		}
 		
-		"Size 41 Shadow"
+		"Size41Shadow"
 		{
 			"1"
 			{
@@ -863,7 +863,7 @@ Scheme
 			}
 		}
 		
-		"Size 42"
+		"Size42"
 		{
 			"1"
 			{
@@ -874,7 +874,7 @@ Scheme
 			}
 		}
 		
-		"Size 42 Shadow"
+		"Size42Shadow"
 		{
 			"1"
 			{
@@ -886,7 +886,7 @@ Scheme
 			}
 		}
 		
-		"Size 43"
+		"Size43"
 		{
 			"1"
 			{
@@ -897,7 +897,7 @@ Scheme
 			}
 		}
 		
-		"Size 43 Shadow"
+		"Size43Shadow"
 		{
 			"1"
 			{
@@ -909,7 +909,7 @@ Scheme
 			}
 		}
 		
-		"Size 44"
+		"Size44"
 		{
 			"1"
 			{
@@ -920,7 +920,7 @@ Scheme
 			}
 		}
 		
-		"Size 44 Shadow"
+		"Size44Shadow"
 		{
 			"1"
 			{
@@ -932,7 +932,7 @@ Scheme
 			}
 		}
 		
-		"Size 45"
+		"Size45"
 		{
 			"1"
 			{
@@ -943,7 +943,7 @@ Scheme
 			}
 		}
 		
-		"Size 45 Shadow"
+		"Size45Shadow"
 		{
 			"1"
 			{
@@ -955,7 +955,7 @@ Scheme
 			}
 		}
 		
-		"Size 46"
+		"Size46"
 		{
 			"1"
 			{
@@ -966,7 +966,7 @@ Scheme
 			}
 		}
 		
-		"Size 46 Shadow"
+		"Size46Shadow"
 		{
 			"1"
 			{
@@ -978,7 +978,7 @@ Scheme
 			}
 		}
 		
-		"Size 47"
+		"Size47"
 		{
 			"1"
 			{
@@ -989,7 +989,7 @@ Scheme
 			}
 		}
 		
-		"Size 47 Shadow"
+		"Size47Shadow"
 		{
 			"1"
 			{
@@ -1001,7 +1001,7 @@ Scheme
 			}
 		}
 		
-		"Size 48"
+		"Size48"
 		{
 			"1"
 			{
@@ -1012,7 +1012,7 @@ Scheme
 			}
 		}
 		
-		"Size 48 Shadow"
+		"Size48Shadow"
 		{
 			"1"
 			{
@@ -1024,7 +1024,7 @@ Scheme
 			}
 		}
 		
-		"Size 49"
+		"Size49"
 		{
 			"1"
 			{
@@ -1035,7 +1035,7 @@ Scheme
 			}
 		}
 		
-		"Size 49 Shadow"
+		"Size49Shadow"
 		{
 			"1"
 			{
@@ -1047,7 +1047,7 @@ Scheme
 			}
 		}
 		
-		"Size 50"
+		"Size50"
 		{
 			"1"
 			{
@@ -1058,7 +1058,7 @@ Scheme
 			}
 		}
 		
-		"Size 50 Shadow"
+		"Size50Shadow"
 		{
 			"1"
 			{
@@ -1070,7 +1070,7 @@ Scheme
 			}
 		}
 		
-		"Size 51"
+		"Size51"
 		{
 			"1"
 			{
@@ -1081,7 +1081,7 @@ Scheme
 			}
 		}
 		
-		"Size 51 Shadow"
+		"Size51Shadow"
 		{
 			"1"
 			{
@@ -1093,7 +1093,7 @@ Scheme
 			}
 		}
 		
-		"Size 52"
+		"Size52"
 		{
 			"1"
 			{
@@ -1104,7 +1104,7 @@ Scheme
 			}
 		}
 		
-		"Size 52 Shadow"
+		"Size52Shadow"
 		{
 			"1"
 			{
@@ -1116,7 +1116,7 @@ Scheme
 			}
 		}
 		
-		"Size 53"
+		"Size53"
 		{
 			"1"
 			{
@@ -1127,7 +1127,7 @@ Scheme
 			}
 		}
 		
-		"Size 53 Shadow"
+		"Size53Shadow"
 		{
 			"1"
 			{
@@ -1139,7 +1139,7 @@ Scheme
 			}
 		}
 		
-		"Size 54"
+		"Size54"
 		{
 			"1"
 			{
@@ -1150,7 +1150,7 @@ Scheme
 			}
 		}
 		
-		"Size 54 Shadow"
+		"Size54Shadow"
 		{
 			"1"
 			{
@@ -1162,7 +1162,7 @@ Scheme
 			}
 		}
 		
-		"Size 55"
+		"Size55"
 		{
 			"1"
 			{
@@ -1173,7 +1173,7 @@ Scheme
 			}
 		}
 		
-		"Size 55 Shadow"
+		"Size55Shadow"
 		{
 			"1"
 			{
@@ -1185,7 +1185,7 @@ Scheme
 			}
 		}
 		
-		"Size 56"
+		"Size56"
 		{
 			"1"
 			{
@@ -1196,7 +1196,7 @@ Scheme
 			}
 		}
 		
-		"Size 56 Shadow"
+		"Size56Shadow"
 		{
 			"1"
 			{
@@ -1208,7 +1208,7 @@ Scheme
 			}
 		}
 		
-		"Size 57"
+		"Size57"
 		{
 			"1"
 			{
@@ -1219,7 +1219,7 @@ Scheme
 			}
 		}
 		
-		"Size 57 Shadow"
+		"Size57Shadow"
 		{
 			"1"
 			{
@@ -1231,7 +1231,7 @@ Scheme
 			}
 		}
 		
-		"Size 58"
+		"Size58"
 		{
 			"1"
 			{
@@ -1242,7 +1242,7 @@ Scheme
 			}
 		}
 		
-		"Size 58 Shadow"
+		"Size58Shadow"
 		{
 			"1"
 			{
@@ -1254,7 +1254,7 @@ Scheme
 			}
 		}
 		
-		"Size 59"
+		"Size59"
 		{
 			"1"
 			{
@@ -1265,7 +1265,7 @@ Scheme
 			}
 		}
 		
-		"Size 59 Shadow"
+		"Size59Shadow"
 		{
 			"1"
 			{
@@ -1277,7 +1277,7 @@ Scheme
 			}
 		}
 		
-		"Size 60"
+		"Size60"
 		{
 			"1"
 			{
@@ -1288,7 +1288,7 @@ Scheme
 			}
 		}
 		
-		"Size 60 Shadow"
+		"Size60Shadow"
 		{
 			"1"
 			{
@@ -1300,7 +1300,7 @@ Scheme
 			}
 		}
 		
-		"Size 61"
+		"Size61"
 		{
 			"1"
 			{
@@ -1311,7 +1311,7 @@ Scheme
 			}
 		}
 		
-		"Size 61 Shadow"
+		"Size61Shadow"
 		{
 			"1"
 			{
@@ -1323,7 +1323,7 @@ Scheme
 			}
 		}
 		
-		"Size 62"
+		"Size62"
 		{
 			"1"
 			{
@@ -1334,7 +1334,7 @@ Scheme
 			}
 		}
 		
-		"Size 62 Shadow"
+		"Size62Shadow"
 		{
 			"1"
 			{
@@ -1346,7 +1346,7 @@ Scheme
 			}
 		}
 		
-		"Size 63"
+		"Size63"
 		{
 			"1"
 			{
@@ -1357,7 +1357,7 @@ Scheme
 			}
 		}
 		
-		"Size 63 Shadow"
+		"Size63Shadow"
 		{
 			"1"
 			{
@@ -1369,7 +1369,7 @@ Scheme
 			}
 		}
 		
-		"Size 64"
+		"Size64"
 		{
 			"1"
 			{
@@ -1380,7 +1380,7 @@ Scheme
 			}
 		}
 		
-		"Size 64 Shadow"
+		"Size64Shadow"
 		{
 			"1"
 			{
@@ -1392,7 +1392,7 @@ Scheme
 			}
 		}
 		
-		"Size 65"
+		"Size65"
 		{
 			"1"
 			{
@@ -1403,7 +1403,7 @@ Scheme
 			}
 		}
 		
-		"Size 65 Shadow"
+		"Size65Shadow"
 		{
 			"1"
 			{
@@ -1415,7 +1415,7 @@ Scheme
 			}
 		}
 		
-		"Size 66"
+		"Size66"
 		{
 			"1"
 			{
@@ -1426,7 +1426,7 @@ Scheme
 			}
 		}
 		
-		"Size 66 Shadow"
+		"Size66Shadow"
 		{
 			"1"
 			{
@@ -1438,7 +1438,7 @@ Scheme
 			}
 		}
 		
-		"Size 67"
+		"Size67"
 		{
 			"1"
 			{
@@ -1449,7 +1449,7 @@ Scheme
 			}
 		}
 		
-		"Size 67 Shadow"
+		"Size67Shadow"
 		{
 			"1"
 			{
@@ -1461,7 +1461,7 @@ Scheme
 			}
 		}
 		
-		"Size 68"
+		"Size68"
 		{
 			"1"
 			{
@@ -1472,7 +1472,7 @@ Scheme
 			}
 		}
 		
-		"Size 68 Shadow"
+		"Size68Shadow"
 		{
 			"1"
 			{
@@ -1484,7 +1484,7 @@ Scheme
 			}
 		}
 		
-		"Size 69"
+		"Size69"
 		{
 			"1"
 			{
@@ -1495,7 +1495,7 @@ Scheme
 			}
 		}
 		
-		"Size 69 Shadow"
+		"Size69Shadow"
 		{
 			"1"
 			{
@@ -1507,7 +1507,7 @@ Scheme
 			}
 		}
 		
-		"Size 70"
+		"Size70"
 		{
 			"1"
 			{
@@ -1518,7 +1518,7 @@ Scheme
 			}
 		}
 		
-		"Size 70 Shadow"
+		"Size70Shadow"
 		{
 			"1"
 			{
@@ -1530,7 +1530,7 @@ Scheme
 			}
 		}
 		
-		"Size 71"
+		"Size71"
 		{
 			"1"
 			{
@@ -1541,7 +1541,7 @@ Scheme
 			}
 		}
 		
-		"Size 71 Shadow"
+		"Size71Shadow"
 		{
 			"1"
 			{
@@ -1553,7 +1553,7 @@ Scheme
 			}
 		}
 		
-		"Size 72"
+		"Size72"
 		{
 			"1"
 			{
@@ -1564,7 +1564,7 @@ Scheme
 			}
 		}
 		
-		"Size 72 Shadow"
+		"Size72Shadow"
 		{
 			"1"
 			{

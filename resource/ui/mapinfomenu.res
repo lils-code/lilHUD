@@ -63,7 +63,7 @@
 		"AllCaps"							"1"
 		"dulltext"							"0"
 		"brighttext"						"1"
-		"font"								"Size 32"
+		"font"								"Size32"
 		"fgcolor"							"White"
 	}
 	
@@ -85,7 +85,7 @@
 		"AllCaps"							"1"
 		"dulltext"							"0"
 		"brighttext"						"1"
-		"font"								"Size 20"
+		"font"								"Size20"
 		"fgcolor"							"White"
 	}
 	
@@ -93,7 +93,7 @@
 	{
 		"ControlName"						"CExRichText"
 		"fieldName"							"MapInfoText"
-		"font"								"Size 12"
+		"font"								"Size12"
 		"xpos"								"0"
 		"ypos"								"-150"
 		"zpos"								"3"
@@ -131,7 +131,7 @@
 		"brighttext"						"0"
 		"command"							"continue"
 		"default"							"1"
-		"font"								"Size 24"
+		"font"								"Size24"
 		
 		"paintbackground"					"1"
 		

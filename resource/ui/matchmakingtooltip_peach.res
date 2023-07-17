@@ -22,17 +22,17 @@
 
 			if_small
 			{
-				"font"				"Size 9"
+				"font"				"Size9"
 			}
 
 			if_medium
 			{
-				"font"				"Size 14"
+				"font"				"Size14"
 			}
 
 			if_large
 			{
-				"font"				"Size 14"
+				"font"				"Size14"
 			}
 
 			"labelText"				"%tiptext%"

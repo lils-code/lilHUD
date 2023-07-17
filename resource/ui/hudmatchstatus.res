@@ -16,7 +16,7 @@
 	{	
 		"ControlName"							"CExLabel"
 		"fieldName"								"CountdownLabel"
-		"font"									"Size 24 Shadow"
+		"font"									"Size24Shadow"
 		"xpos"									"cs-0.5"
 		"ypos"									"cs-0.1"
 		"wide"									"40"
@@ -138,13 +138,13 @@
 		"PositiveColor"							"GreenLight"
 		"NegativeColor"							"RedLight"
 		"delta_lifetime"						"1.5"
-		"delta_item_font"						"Size 16"
+		"delta_item_font"						"Size16"
 		
 		"TimePanelValue"
 		{
 			"ControlName"						"CExLabel"
 			"fieldName"							"TimePanelValue"
-			"font"								"Size 16"
+			"font"								"Size16"
 			"fgcolor"							"White"
 			"xpos"								"30"
 			"ypos"								"0"

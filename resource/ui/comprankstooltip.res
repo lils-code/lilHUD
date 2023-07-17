@@ -19,7 +19,7 @@
 	{
 		"ControlName"					"CExLabel"
 		"fieldName"						"TitleLabel"
-		"font"							"Size 12"
+		"font"							"Size12"
 		"labelText"						"#TF_Competitive_RankTooltipTitle"
 		"textAlignment"					"north"
 		"xpos"							"cs-0.5"
@@ -41,7 +41,7 @@
 	{
 		"ControlName"					"CExLabel"
 		"fieldName"						"DescLabel"
-		"font"							"Size 8"
+		"font"							"Size8"
 		"labelText"						"#TF_Competitive_RankTooltipDesc"
 		"xpos"							"cs-0.5"
 		"ypos"							"15"

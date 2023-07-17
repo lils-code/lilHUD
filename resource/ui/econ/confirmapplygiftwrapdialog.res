@@ -58,7 +58,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"TitleLabel"
-		"font"						"Size 15"
+		"font"						"Size15"
 		"labelText"					"dynamic"
 		"textAlignment"				"center"
 		"xpos"						"100"
@@ -79,7 +79,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"ToolBG"
-		"font"						"Size 14"
+		"font"						"Size14"
 		"labelText"					""
 		"textAlignment"				"east"
 		"xpos"						"10"
@@ -136,7 +136,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"SubjectBG"
-		"font"						"Size 14"
+		"font"						"Size14"
 		"labelText"					""
 		"textAlignment"				"east"
 		"xpos"						"300"
@@ -191,7 +191,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"ConfirmLabel"
-		"font"						"Size 15"
+		"font"						"Size15"
 		"labelText"					"#ToolGiftWrapConfirm"
 		"textAlignment"				"center"
 		"xpos"						"20"
@@ -211,7 +211,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"ConfirmLabelStrange"
-		"font"						"Size 15"
+		"font"						"Size15"
 		"labelText"					"#ToolGiftWrapConfirmStrange"
 		"textAlignment"				"center"
 		"xpos"						"20"
@@ -242,7 +242,7 @@
 		"enabled"					"1"
 		"tabPosition"				"0"
 		"labelText"					"Cancel (&Q)"
-		"font"						"Size 15"
+		"font"						"Size15"
 		"textAlignment"				"center"
 		"AllCaps"					"1"
 		"dulltext"					"0"
@@ -277,7 +277,7 @@
 		"enabled"					"1"
 		"tabPosition"				"0"
 		"labelText"					"#CraftNameConfirm"
-		"font"						"Size 15"
+		"font"						"Size15"
 		"textAlignment"				"center"
 		"AllCaps"					"1"
 		"dulltext"					"0"

@@ -4,7 +4,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"HeaderLabel"
-		"font"						"Size 14"
+		"font"						"Size14"
 		"labelText"					"%header%"
 		"textAlignment"				"west"
 		"xpos"						"0"
@@ -32,7 +32,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"CreditCollectedTextLabel"
-		"font"						"Size 10"
+		"font"						"Size10"
 		"labelText"					"#TF_PVE_Collected"
 		"textAlignment" 			"west"
 		"xpos"						"2"
@@ -47,7 +47,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"CreditCollectedCountLabel"
-		"font"						"Size 10"
+		"font"						"Size10"
 		"labelText"					"%creditscollected%"
 		"textAlignment"			 	"east"
 		"xpos"						"0"
@@ -66,7 +66,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"CreditMissedTextLabel"
-		"font"						"Size 10"
+		"font"						"Size10"
 		"labelText"					"#TF_PVE_Missed"
 		"textAlignment" 			"west"
 		"xpos"						"0"
@@ -85,7 +85,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"CreditMissedCountLabel"
-		"font"						"Size 10"
+		"font"						"Size10"
 		"labelText"					"%creditsmissed%"
 		"textAlignment" 			"east"
 		"xpos"						"0"
@@ -104,7 +104,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"CreditBonusTextLabel"
-		"font"						"Size 10"
+		"font"						"Size10"
 		"labelText"					"#TF_PVE_Bonus"
 		"textAlignment" 			"west"
 		"xpos"						"0"
@@ -123,7 +123,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"CreditBonusCountLabel"
-		"font"						"Size 10"
+		"font"						"Size10"
 		"labelText"					"%creditbonus%"
 		"textAlignment" 			"east"
 		"xpos"						"0"

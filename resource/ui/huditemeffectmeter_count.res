@@ -15,10 +15,10 @@
 		"MeterBG"				"Gray"
 	}
 	
-	"SkullIcon"
+	"Label"
 	{
 		"ControlName"			"CExLabel"
-		"fieldName"				"SkullIcon"
+		"fieldName"				"Label"
 		"xpos"					"0"
 		"ypos"					"1"
 		"zpos"					"2"
@@ -37,10 +37,10 @@
 		"fgcolor"				"White"
 	}
 	
-	"SkullIconShadow"
+	"LabelShadow"
 	{
 		"ControlName"			"CExLabel"
-		"fieldName"				"SkullIconShadow"
+		"fieldName"				"LabelShadow"
 		"xpos"					"-1"
 		"ypos"					"-1"
 		"zpos"					"1"
@@ -57,7 +57,7 @@
 		"brighttext"			"0"
 		"font"					"Symbols 14"
 		"fgcolor"				"Shadows"
-		"pin_to_sibling"		"SkullIcon"
+		"pin_to_sibling"		"Label"
 	}
 	
 	"ItemEffectMeterCount"
@@ -78,7 +78,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"fgcolor"				"White"
-		"font"					"Size 20"
+		"font"					"Size20"
 	}
 	
 	"ItemEffectMeterCountShadow"
@@ -98,7 +98,7 @@
 		"textAlignment"			"west"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"Size 20"
+		"font"					"Size20"
 		"fgcolor"				"Shadows"
 		"pin_to_sibling"		"ItemEffectMeterCount"
 	}

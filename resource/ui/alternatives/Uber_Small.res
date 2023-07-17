@@ -241,7 +241,7 @@
         {
                 "ControlName"   		"CExLabel"
                 "fieldName"             "Uber10"
-                "font"                  "Size 20 Shadow"
+                "font"                  "Size20Shadow"
                 "labelText"             "1"
                 "fgcolor"               "White"
                 "xpos"                  "c200"
@@ -260,7 +260,7 @@
         {
                 "ControlName"   		"CExLabel"
                 "fieldName"             "Uber20"
-                "font"                  "Size 20 Shadow"
+                "font"                  "Size20Shadow"
                 "labelText"             "2"
                 "fgcolor"               "White"
                 "xpos"                  "c200"
@@ -279,7 +279,7 @@
         {
                 "ControlName"   		"CExLabel"
                 "fieldName"             "Uber30"
-                "font"                  "Size 20 Shadow"
+                "font"                  "Size20Shadow"
                 "labelText"             "3"
                 "fgcolor"               "White"
                 "xpos"                  "c200"
@@ -298,7 +298,7 @@
         {
                 "ControlName"  			"CExLabel"
                 "fieldName"             "Uber40"
-                "font"                  "Size 20 Shadow"
+                "font"                  "Size20Shadow"
                 "labelText"             "4"
                 "fgcolor"               "White"
                 "xpos"                  "c200"
@@ -317,7 +317,7 @@
         {
                 "ControlName"  			"CExLabel"
                 "fieldName"             "Uber50"
-                "font"                  "Size 20 Shadow"
+                "font"                  "Size20Shadow"
                 "labelText"             "5"
                 "fgcolor"               "White"
                 "xpos"                  "c200"
@@ -336,7 +336,7 @@
         {
                 "ControlName"   		"CExLabel"
                 "fieldName"             "Uber60"
-                "font"                  "Size 20 Shadow"
+                "font"                  "Size20Shadow"
                 "labelText"             "6"
                 "fgcolor"               "White"
                 "xpos"                  "c200"
@@ -355,7 +355,7 @@
         {
                 "ControlName"  			"CExLabel"
                 "fieldName"             "Uber70"
-                "font"                  "Size 20 Shadow"
+                "font"                  "Size20Shadow"
                 "labelText"             "7"
                 "fgcolor"               "White"
                 "xpos"                  "c200"
@@ -374,7 +374,7 @@
         {
                 "ControlName"  			"CExLabel"
                 "fieldName"             "Uber80"
-                "font"                  "Size 20 Shadow"
+                "font"                  "Size20Shadow"
                 "labelText"             "8"
                 "fgcolor"               "White"
                 "xpos"                  "c200"
@@ -393,7 +393,7 @@
         {
                 "ControlName"  			"CExLabel"
                 "fieldName"             "Uber90"
-                "font"                  "Size 20 Shadow"
+                "font"                  "Size20Shadow"
                 "labelText"             "9"
                 "fgcolor"               "White"
                 "xpos"                  "c200"
@@ -412,7 +412,7 @@
         {
                 "ControlName"   		"CExLabel"
                 "fieldName"             "Uber100"
-                "font"                  "Size 20 Shadow"
+                "font"                  "Size20Shadow"
                 "labelText"             "100"
                 "fgcolor"               "RedLight"
                 "xpos"                  "c200"
@@ -431,7 +431,7 @@
         {
                 "ControlName"   		"CExLabel"
                 "fieldName"             "Uber0"
-                "font"                  "Size 20 Shadow"
+                "font"                  "Size20Shadow"
                 "labelText"             "0"
                 "fgcolor"               "White"
                 "xpos"                  "c209"
@@ -450,7 +450,7 @@
         {
                 "ControlName"   		"CExLabel"
                 "fieldName"             "Uber1"
-                "font"                  "Size 20 Shadow"
+                "font"                  "Size20Shadow"
                 "labelText"             "1"
                 "fgcolor"               "White"
                 "xpos"                  "c209"
@@ -469,7 +469,7 @@
         {
                 "ControlName"   		"CExLabel"
                 "fieldName"             "Uber2"
-                "font"                  "Size 20 Shadow"
+                "font"                  "Size20Shadow"
                 "labelText"             "2"
                 "fgcolor"               "White"
                 "xpos"                  "c209"
@@ -488,7 +488,7 @@
         {
                 "ControlName"   		"CExLabel"
                 "fieldName"             "Uber3"
-                "font"                  "Size 20 Shadow"
+                "font"                  "Size20Shadow"
                 "labelText"             "3"
                 "fgcolor"               "White"
                 "xpos"                  "c209"
@@ -507,7 +507,7 @@
         {
                 "ControlName"   		"CExLabel"
                 "fieldName"             "Uber4"
-                "font"                  "Size 20 Shadow"
+                "font"                  "Size20Shadow"
                 "labelText"             "4"
                 "fgcolor"               "White"
                 "xpos"                  "c209"
@@ -526,7 +526,7 @@
         {
                 "ControlName"   		"CExLabel"
                 "fieldName"             "Uber5"
-                "font"                  "Size 20 Shadow"
+                "font"                  "Size20Shadow"
                 "labelText"             "5"
                 "fgcolor"               "White"
                 "xpos"                  "c209"
@@ -545,7 +545,7 @@
         {
                 "ControlName"   		"CExLabel"
                 "fieldName"             "Uber6"
-                "font"                  "Size 20 Shadow"
+                "font"                  "Size20Shadow"
                 "labelText"             "6"
                 "fgcolor"               "White"
                 "xpos"                  "c209"
@@ -564,7 +564,7 @@
         {
                 "ControlName"   		"CExLabel"
                 "fieldName"             "Uber7"
-                "font"                  "Size 20 Shadow"
+                "font"                  "Size20Shadow"
                 "labelText"             "7"
                 "fgcolor"               "White"
                 "xpos"                  "c209"
@@ -583,7 +583,7 @@
         {
                 "ControlName"   		"CExLabel"
                 "fieldName"             "Uber8"
-                "font"                  "Size 20 Shadow"
+                "font"                  "Size20Shadow"
                 "labelText"             "8"
                 "fgcolor"               "White"
                 "xpos"                  "c209"
@@ -602,7 +602,7 @@
         {
                 "ControlName"   		"CExLabel"
                 "fieldName"             "Uber9"
-                "font"                  "Size 20 Shadow"
+                "font"                  "Size20Shadow"
                 "labelText"             "9"
                 "fgcolor"               "White"
                 "xpos"                  "c209"

@@ -244,7 +244,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"ServerChangeLabel"
-			"font"					"Size 11"
+			"font"					"Size11"
 			"textAlignment"			"center"
 			"labelText"				"%servermessage%"
 			"xpos"					"c-150"

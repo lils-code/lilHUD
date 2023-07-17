@@ -45,7 +45,7 @@
 		"tall"					"f0"
 		"visible"				"1"
 		"enabled"				"1"
-		"font"					"Size 12"
+		"font"					"Size12"
 		"fgcolor_override"		"WhiteTransparent"
 		"textAlignment"			"east"
 		"AllCaps"				"1"

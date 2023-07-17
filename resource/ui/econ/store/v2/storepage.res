@@ -142,7 +142,7 @@
 		
 		"cart_labels_kv"
 		{
-			"font"							"Size 11"
+			"font"							"Size11"
 			"textAlignment"					"north-east"
 			"xpos"							"9999"
 			"ypos"							"9999"
@@ -285,7 +285,7 @@
 	{
 		"ControlName"						"CExLabel"
 		"fieldName"							"CurPageLabel"
-		"font"								"Size 24"
+		"font"								"Size24"
 		"labelText"							"%backpackpage%"
 		"textAlignment"						"east"
 		"xpos"								"-8"
@@ -580,7 +580,7 @@
 		"fgcolor_override"					"White"
 		"bgcolor_override"					"Blank"
 		"paintbackgroundtype" 				"2"
-		"font"								"Size 12"
+		"font"								"Size12"
 		
 		"pin_to_sibling" 					"ClassFilterNavPanel"
 		"pin_corner_to_sibling" 			"PIN_CENTER_LEFT"
@@ -615,7 +615,7 @@
 	{
 		"ControlName"						"ComboBox"
 		"fieldName"							"SubcategoryFilterComboBox"
-		"Font"								"Size 11"
+		"Font"								"Size11"
 		"xpos"								"5"
 		"ypos"								"0"
 		"zpos"								"1"
@@ -676,7 +676,7 @@
 	{
 		"ControlName"						"ComboBox"
 		"fieldName"							"SortFilterComboBox"
-		"Font"								"Size 11"
+		"Font"								"Size11"
 		"xpos"								"3"
 		"ypos"								"0"
 		"zpos"								"1"
@@ -737,7 +737,7 @@
 	{
 		"ControlName"						"CExLabel"
 		"fieldName"							"ClassFilterTooltipLabel"
-		"font"								"Size 12"
+		"font"								"Size12"
 		"textAlignment"						"center"
 		"xpos"								"36"
 		"ypos"								"170"
@@ -782,7 +782,7 @@
 	{
 		"ControlName"						"CExLabel"
 		"fieldName"							"BackpackSpaceLabel"
-		"font"								"Size 15"
+		"font"								"Size15"
 		"labelText"							"%freebackpackspace%"
 		"textAlignment"						"center"
 		"xpos"								"0"
@@ -806,7 +806,7 @@
 	{
 		"ControlName"						"CExButton"
 		"fieldName"							"CartButton"
-		"font"								"Size 15"
+		"font"								"Size15"
 		"labelText"							"%storecart%"
 		"textAlignment"						"east"
 		"xpos"								"-4"
@@ -820,7 +820,7 @@
 		"textinsetx"						"15"
 		
 		"Command"							"viewcart"
-		"font"								"Size 15"
+		"font"								"Size15"
 		
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"

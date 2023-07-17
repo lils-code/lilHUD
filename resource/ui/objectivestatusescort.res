@@ -300,7 +300,7 @@
 		{	
 			"ControlName"		"CExLabel"
 			"fieldName"			"CapNumPlayers"
-			"font"				"Size 10"
+			"font"				"Size10"
 			"xpos"				"284"
 			"ypos"				"2"
 			"zpos"				"30"
@@ -330,7 +330,7 @@
 		{	
 			"ControlName"		"CExLabel"
 			"fieldName"			"RecedeTime"	
-			"font"				"Size 10"		
+			"font"				"Size10"		
 			"xpos"				"284"
 			"ypos"				"2"
 			"zpos"				"30"

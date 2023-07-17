@@ -26,7 +26,7 @@
 		"proportionaltoparent"			"1"
 		"labeltext"						"#TF_Matchmaking_HeaderCompetitive"
 		"textAlignment"					"west"
-		"font"							"Size 30"
+		"font"							"Size30"
 		"AllCaps"						"1"
 		"fgcolor_override"				"White"
 		
@@ -133,7 +133,7 @@
 		"visible"						"1"
 		"enabled"						"1"
 		"tabPosition"					"0"
-		"font"							"Size 15"
+		"font"							"Size15"
 		"textAlignment"					"center"
 		"dulltext"						"0"
 		"brighttext"					"0"

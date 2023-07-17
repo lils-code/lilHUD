@@ -62,7 +62,7 @@
 		"textAlignment"			"center"
 		"textinsetx"			"0"
 		"labelText"				"%bluescore%"
-		"font"					"Size 22"
+		"font"					"Size22"
 		"fgcolor"				"WhiteTransparent"
 		
 		"pin_to_sibling"		"BlueScoreBG"
@@ -118,7 +118,7 @@
 		"textAlignment"			"center"
 		"textinsetx"			"0"
 		"labelText"				"%redscore%"
-		"font"					"Size 22"
+		"font"					"Size22"
 		"fgcolor"				"WhiteTransparent"
 
 		"pin_to_sibling"		"RedScoreBG"
@@ -142,7 +142,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"Size 10"
+		"font"					"Size10"
 		"fgcolor"				"WhiteTransparent"
 		
 		"pin_to_sibling"		"WhiteBackground"

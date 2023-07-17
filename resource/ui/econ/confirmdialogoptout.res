@@ -24,7 +24,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"TitleLabel"
-		"font"						"Size 24"
+		"font"						"Size24"
 		"labelText"					"#ConfirmTitle"
 		"textAlignment"				"north"
 		"xpos"						"0"
@@ -44,7 +44,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"ExplanationLabel"
-		"font"						"Size 15"
+		"font"						"Size15"
 		"labelText"					"%text%"
 		"textAlignment"				"center"
 		"xpos"						"40"
@@ -76,7 +76,7 @@
 		"enabled"					"1"
 		"tabPosition"				"0"
 		"labelText"					"#Cancel"
-		"font"						"Size 15"
+		"font"						"Size15"
 		"textAlignment"				"center"
 		"textinsetx"				"50"
 		"dulltext"					"0"
@@ -114,7 +114,7 @@
 		"enabled"					"1"
 		"tabPosition"				"0"
 		"labelText"					"#ConfirmButtonText"
-		"font"						"Size 15"
+		"font"						"Size15"
 		"textAlignment"				"center"
 		"textinsetx"				"50"
 		"dulltext"					"0"
@@ -155,7 +155,7 @@
 		"dulltext"					"0"
 		"brighttext"				"0"
 		"wrap"						"0"
-		"font"						"Size 11"
+		"font"						"Size11"
 		"selected_fgcolor_override" "White"
 	}
 }

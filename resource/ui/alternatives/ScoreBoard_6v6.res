@@ -100,7 +100,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"BlueTeamScore"
-		"font"						"Size 26"
+		"font"						"Size26"
 		"fgcolor"					"White"
 		"labelText"					"%blueteamscore%"
 		"textAlignment"				"west"
@@ -126,7 +126,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"BlueTeamLabel"
-		"font"						"Size 20"
+		"font"						"Size20"
 		"labelText"					"%blueteamname%"
 		"textAlignment"				"center"
 		"xpos"						"0"
@@ -182,7 +182,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"BlueTeamPlayerCount"
-		"font"						"Size 20"
+		"font"						"Size20"
 		"labelText"					"%blueteamplayercount%"
 		"textAlignment"				"east"
 		"xpos"						"5"
@@ -209,7 +209,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"RedTeamScore"
-		"font"						"Size 26"
+		"font"						"Size26"
 		"fgcolor"					"White"
 		"labelText"					"%redteamscore%"
 		"textAlignment"				"east"
@@ -237,7 +237,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"RedTeamLabel"
-		"font"						"Size 20"
+		"font"						"Size20"
 		"labelText"					"%redteamname%"
 		"textAlignment"				"center"
 		"xpos"						"0"
@@ -291,7 +291,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"RedTeamPlayerCount"
-		"font"						"Size 20"
+		"font"						"Size20"
 		"labelText"					"%redteamplayercount%"
 		"textAlignment"				"west"
 		"xpos"						"5"
@@ -387,7 +387,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"ServerTimeLeft"
-		"font"						"Size 16"
+		"font"						"Size16"
 		"labelText"					"%servertime%"
 		"textAlignment"				"center"
 		"xpos"						"0"
@@ -413,7 +413,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"Spectators"
-		"font"						"Size 8"
+		"font"						"Size8"
 		"labelText"					"%spectators%"
 		"textAlignment"				"west"
 		"xpos"						"-5"
@@ -435,7 +435,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"SpectatorsInQueue"
-		"font"						"Size 8"
+		"font"						"Size8"
 		"labelText"					"%waitingtoplay%"
 		"textAlignment"				"west"
 		"xpos"						"-5"
@@ -457,7 +457,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"ServerLabel"
-		"font"						"Size 10"
+		"font"						"Size10"
 		"labelText"					"%server%"
 		"textAlignment"				"east"
 		"xpos"						"-1"
@@ -501,7 +501,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"mapname"
-		"font"						"Size 10"
+		"font"						"Size10"
 		"labelText"					"%mapname%"
 		"textAlignment"				"west"
  		"xpos"						"1"
@@ -549,7 +549,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"KillsLabel"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"Kills:"
 			"textAlignment"			"west"
 			"xpos"					"0"
@@ -573,7 +573,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"Killss"
-			"font"					"Size 30"
+			"font"					"Size30"
 			"labelText"				"%kills%"
 			"textAlignment"			"east"
 			"xpos"					"0"
@@ -598,7 +598,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"KDLabel"
-			"font"					"Size 28"
+			"font"					"Size28"
 			"labelText"				"|"
 			"textAlignment"			"center"
 			"xpos"					"0"
@@ -627,7 +627,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"DeathsLabel"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"Deaths:"
 			"textAlignment"			"west"
 			"xpos"					"0"
@@ -655,7 +655,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"Deathss"
-			"font"					"Size 30"
+			"font"					"Size30"
 			"labelText"				"%deaths%"
 			"textAlignment"			"west"
 			"xpos"					"0"
@@ -684,7 +684,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"DamageLabel"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"Damage:"
 			"textAlignment"			"west"
 			"xpos"					"0"
@@ -712,7 +712,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"Damagess"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"%damage%"
 			"textAlignment"			"west"
 			"xpos"					"0"
@@ -740,7 +740,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"AssistsLabel"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"Assists:"
 			"textAlignment"			"west"
 			"xpos"					"100"
@@ -764,7 +764,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"Assistss"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"%assists%"
 			"textAlignment"			"west"
 			"xpos"					"0"
@@ -792,7 +792,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"HeadshotsLabel"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"Headshots:"
 			"textAlignment"			"west"
 			"xpos"					"0"
@@ -820,7 +820,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"Headshotss"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"%headshots%"
 			"textAlignment"			"west"
 			"xpos"					"0"
@@ -848,7 +848,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"BackstabsLabel"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"Backstabs:"
 			"textAlignment"			"west"
 			"xpos"					"0"
@@ -876,7 +876,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"Backstabss"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"%backstabs%"
 			"textAlignment"			"west"
 			"xpos"					"0"
@@ -904,7 +904,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"CapturesLabel"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"Captures:"
 			"textAlignment"			"west"
 			"xpos"					"20"
@@ -932,7 +932,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"Capturess"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"%captures%"
 			"textAlignment"			"west"
 			"xpos"					"0"
@@ -960,7 +960,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"DefensesLabel"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"Defenses:"
 			"textAlignment"			"west"
 			"xpos"					"0"
@@ -988,7 +988,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"Defensess"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"%defenses%"
 			"textAlignment"			"west"
 			"xpos"					"0"
@@ -1016,7 +1016,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"DestructionLabel"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"Destructions:"
 			"textAlignment"			"west"
 			"xpos"					"0"
@@ -1044,7 +1044,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"Destructionss"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"%destruction%"
 			"textAlignment"			"west"
 			"xpos"					"0"
@@ -1072,7 +1072,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"TeleportsLabel"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"Teleports:"
 			"textAlignment"			"west"
 			"xpos"					"20"
@@ -1100,7 +1100,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"Teleportss"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"%teleports%"
 			"textAlignment"			"west"
 			"xpos"					"0"
@@ -1128,7 +1128,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"InvulnLabel"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"Invuln:"
 			"textAlignment"			"west"
 			"xpos"					"0"
@@ -1156,7 +1156,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"Invulnss"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"%invulns%"
 			"textAlignment"			"west"
 			"xpos"					"0"
@@ -1184,7 +1184,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"HealingLabel"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"Healing:"
 			"textAlignment"			"west"
 			"xpos"					"0"
@@ -1212,7 +1212,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"Healingss"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"%healing%"
 			"textAlignment"			"west"
 			"xpos"					"0"
@@ -1240,7 +1240,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"DominationLabel"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"Dominations:"
 			"textAlignment"			"west"
 			"xpos"					"20"
@@ -1268,7 +1268,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"Dominationss"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"%dominations%"
 			"textAlignment"			"west"
 			"xpos"					"0"
@@ -1296,7 +1296,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"RevengeLabel"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"Revenges:"
 			"textAlignment"			"west"
 			"xpos"					"0"
@@ -1324,7 +1324,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"Revengess"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"%Revenge%"
 			"textAlignment"			"west"
 			"xpos"					"0"
@@ -1352,7 +1352,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"BonusLabel"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"Bonus:"
 			"textAlignment"			"west"
 			"xpos"					"0"
@@ -1381,7 +1381,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"Bonuss"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"%bonus%"
 			"textAlignment"			"west"
 			"xpos"					"0"
@@ -1413,7 +1413,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"KillsLabelMVM"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"Kills:"
 			"textAlignment"			"west"
 			"xpos"					"0"
@@ -1437,7 +1437,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"KillsMVM"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"%kills%"
 			"textAlignment"			"west"
 			"xpos"					"0"
@@ -1465,7 +1465,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"DeathsLabelMVM"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"Deaths:"
 			"textAlignment"			"west"
 			"xpos"					"0"
@@ -1493,7 +1493,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"DeathsMVM"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"%deaths%"
 			"textAlignment"			"west"
 			"xpos"					"0"
@@ -1521,7 +1521,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"AssistsLabelMVM"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"Assists:"
 			"textAlignment"			"west"
 			"xpos"					"20"
@@ -1549,7 +1549,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"AssistsMVM"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"%assists%"
 			"textAlignment"			"west"
 			"xpos"					"0"
@@ -1577,7 +1577,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"CapturesLabelMVM"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"Captures:"
 			"textAlignment"			"west"
 			"xpos"					"0"
@@ -1605,7 +1605,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"CapturesMVM"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"%captures%"
 			"textAlignment"			"west"
 			"xpos"					"0"
@@ -1633,7 +1633,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"DefensesLabelMVM"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"Defenses:"
 			"textAlignment"			"west"
 			"xpos"					"20"
@@ -1661,7 +1661,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"DefensesMVM"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"%defenses%"
 			"textAlignment"			"west"
 			"xpos"					"0"
@@ -1689,7 +1689,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"DestructionLabelMVM"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"Destructions:"
 			"textAlignment"			"west"
 			"xpos"					"0"
@@ -1717,7 +1717,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"DestructionsMVM"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"%destruction%"
 			"textAlignment"			"west"
 			"xpos"					"0"
@@ -1745,7 +1745,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"TeleportsLabelMVM"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"Teleports:"
 			"textAlignment"			"west"
 			"xpos"					"20"
@@ -1773,7 +1773,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"TeleportsMVM"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"%teleports%"
 			"textAlignment"			"west"
 			"xpos"					"0"
@@ -1801,7 +1801,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"HeadshotsLabelMVM"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"Headshots:"
 			"textAlignment"			"west"
 			"xpos"					"0"
@@ -1829,7 +1829,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"HeadshotsMVM"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"%headshots%"
 			"textAlignment"			"west"
 			"xpos"					"0"
@@ -1857,7 +1857,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"BackstabsLabelMVM"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"Backstabs:"
 			"textAlignment"			"west"
 			"xpos"					"20"
@@ -1885,7 +1885,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"BackstabsMVM"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"%backstabs%"
 			"textAlignment"			"west"
 			"xpos"					"0"
@@ -1913,7 +1913,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"InvulnLabelMVM"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"Invuln:"
 			"textAlignment"			"west"
 			"xpos"					"0"
@@ -1941,7 +1941,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"InvulnMVM"
-			"font"					"Size 8"
+			"font"					"Size8"
 			"labelText"				"%invulns%"
 			"textAlignment"			"west"
 			"xpos"					"0"

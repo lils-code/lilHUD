@@ -4,7 +4,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"DescLabel"
-		"font"			"Size 12"
+		"font"			"Size12"
 		"labelText"		"#TF_COMPLETE_TRAINING_DESC"
 		"textAlignment"	"center"
 		"xpos"			"0"

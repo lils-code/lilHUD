@@ -19,7 +19,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"TitleLabel"
-		"font"						"Size 15"
+		"font"						"Size15"
 		"labelText"					"dynamic"
 		"textAlignment"				"center"
 		"xpos"						"100"
@@ -40,7 +40,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"ToolBG"
-		"font"						"Size 14"
+		"font"						"Size14"
 		"labelText"					""
 		"textAlignment"				"east"
 		"xpos"						"10"
@@ -97,7 +97,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"SubjectBG"
-		"font"						"Size 14"
+		"font"						"Size14"
 		"labelText"					""
 		"textAlignment"				"east"
 		"xpos"						"300"
@@ -152,7 +152,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"ConfirmLabel"
-		"font"						"Size 15"
+		"font"						"Size15"
 		"labelText"					"#CraftInvalidName"
 		"textAlignment"				"center"
 		"xpos"						"20"
@@ -172,7 +172,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"GivenName"
-		"font"						"Size 24"
+		"font"						"Size24"
 		"labelText"					"%name%"
 		"textAlignment"				"center"
 		"xpos"						"20"
@@ -192,7 +192,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"WarningLabel"
-		"font"						"Size 15"
+		"font"						"Size15"
 		"labelText"					"#CraftInvalidNameDetail"
 		"textAlignment"				"center"
 		"xpos"						"0"
@@ -223,7 +223,7 @@
 		"enabled"					"1"
 		"tabPosition"				"0"
 		"labelText"					"#TF_OK"
-		"font"						"Size 15"
+		"font"						"Size15"
 		"textAlignment"				"center"
 		"dulltext"					"0"
 		"brighttext"				"0"

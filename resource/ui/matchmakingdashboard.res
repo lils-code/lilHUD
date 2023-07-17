@@ -343,7 +343,7 @@
 				"tall"						"f0"
 				"visible"					"1"
 				"enabled"					"1"
-				"font"						"Size 10"
+				"font"						"Size10"
 				"fgcolor_override"			"White"
 				"textAlignment"				"west"
 				"labelText"					"%queue_state%"
@@ -355,15 +355,15 @@
 				{
 					"0"
 					{
-						"font"				"Size 10" // TF2 Build 11
+						"font"				"Size10" // TF2 Build 11
 					}
 					"1"
 					{
-						"font"				"Size 9" // TF2 Build 10
+						"font"				"Size9" // TF2 Build 10
 					}
 					"2"
 					{
-						"font"				"Size 8" // TF2 Build 9
+						"font"				"Size8" // TF2 Build 9
 					}
 				}
 			}
@@ -486,7 +486,7 @@
 				"tall"						"f0"
 				"visible"					"1"
 				"enabled"					"1"
-				"font"						"Size 11"
+				"font"						"Size11"
 				"fgcolor_override"			"White"
 				"textAlignment"				"west"
 				"labelText"					"#TF_MM_JoinPartyLobby_Prompt"
@@ -515,7 +515,7 @@
 				"visible"					"1"
 				"enabled"					"1"
 				"tabPosition"				"0"
-				"font"						"Size 10"
+				"font"						"Size10"
 				"textAlignment"				"center"
 				"AllCaps"					"1"
 				"dulltext"					"0"
@@ -568,7 +568,7 @@
 			"visible"						"1"
 			"enabled"						"1"
 			"tabPosition"					"0"
-			"font"							"Size 20"
+			"font"							"Size20"
 			"textAlignment"					"center"
 			"dulltext"						"0"
 			"brighttext"					"0"

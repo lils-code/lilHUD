@@ -26,7 +26,7 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"WaveCountLabel"
-		"font"					"Size 12"
+		"font"					"Size12"
 		"fgcolor"				"White"
 		"xpos"					"200"
 		"ypos"					"2"
@@ -80,7 +80,7 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"SupportLabel"
-		"font"					"Size 11"
+		"font"					"Size11"
 		"fgcolor"				"White"
 		"xpos"					"55"
 		"ypos"					"6"

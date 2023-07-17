@@ -58,7 +58,7 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"TitleLabel"
-		"font"					"Size 15"
+		"font"					"Size15"
 		"labelText"				"dynamic"
 		"textAlignment"			"center"
 		"xpos"					"95"
@@ -79,7 +79,7 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ToolBG"
-		"font"					"Size 14"
+		"font"					"Size14"
 		"labelText"				""
 		"textAlignment"			"east"
 		"xpos"					"10"
@@ -136,7 +136,7 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"SubjectBG"
-		"font"					"Size 14"
+		"font"					"Size14"
 		"labelText"				""
 		"textAlignment"			"east"
 		"xpos"					"300"

@@ -28,7 +28,7 @@
 		"textAlignment"					"center"
 		"wrap"							"1"
 		"centerwrap"					"1"
-		"font"							"Size 24"
+		"font"							"Size24"
 		"fgcolor_override"				"White"
 		"AllCaps"						"1"
 		

@@ -1,1 +1,1 @@
-#base "../../customizations/KillStreakPositions.res"
+#base "../../../cfg/lilHUD_ks.txt"

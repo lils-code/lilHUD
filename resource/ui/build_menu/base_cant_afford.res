@@ -16,7 +16,7 @@
 	{	
 		"ControlName"			"CExLabel"
 		"fieldName"				"CantBuildReason"
-		"font"					"Size 9"
+		"font"					"Size9"
 		"fgcolor"				"White"
 		"xpos"					"-10"
 		"ypos"					"-24"
@@ -39,7 +39,7 @@
 	{	
 		"ControlName"			"CExLabel"
 		"fieldName"				"CostLabel"
-		"font"					"Size 10"
+		"font"					"Size10"
 		"fgcolor"				"White"
 		"xpos"					"-28"
 		"ypos"					"-12"

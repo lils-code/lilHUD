@@ -17,9 +17,9 @@
 		"bgcolor_override"							"BlackTransparent"
 		"paintborder"								"0"
 
-		"log_font_small"							"Size 22"
-		"log_font_medium"							"Size 22"
-		"log_font_large"							"Size 22"
+		"log_font_small"							"Size22"
+		"log_font_medium"							"Size22"
+		"log_font_large"							"Size22"
 
 		"chat_color_default"						"White"
 		"chat_color_player_name"					"BlueLight"
@@ -44,7 +44,7 @@
 		"visible"									"1"
 		"proportionaltoparent"						"1"
 		"RoundedCorners"							"0"
-		"font"										"Size 22"
+		"font"										"Size22"
 		
 		"paintbackground"							"0"
 
@@ -97,7 +97,7 @@
 		"bgcolor_override"							"BlackTransparent"
 		"paintbackgroundtype"						"2"
 		"RoundedCorners"							"0"
-		"font"										"Size 12"
+		"font"										"Size12"
 		"alpha"										"0"
 		"mouseinputenabled"							"0"
 

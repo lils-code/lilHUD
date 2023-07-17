@@ -38,6 +38,6 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"Size 12"
+		"font"					"Size12"
 	}
 }

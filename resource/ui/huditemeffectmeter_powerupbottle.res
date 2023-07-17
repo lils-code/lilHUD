@@ -63,7 +63,7 @@
 		"textAlignment"			"west"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"Size 20"
+		"font"					"Size20"
 		
 		"pin_to_sibling"		"ItemEffectMeterBG"
 	}
@@ -72,7 +72,7 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCountShadow"
-		"font"					"Size 20"
+		"font"					"Size20"
 		"fgcolor"				"Shadows"
 		"labelText"				"%progresscount%"
 		"textAlignment" 		"west"

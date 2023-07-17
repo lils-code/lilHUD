@@ -82,7 +82,7 @@
 			"actionsignallevel"					"2"
 			"command"							"show_leaderboards"
 			"labeltext"							"#TF_Competitive_ViewLeaderboards"
-			"font"								"Size 12"
+			"font"								"Size12"
 			"textAlignment"						"center"
 			"AllCaps"							"1"
 
@@ -114,7 +114,7 @@
 			"actionsignallevel"					"2"
 			"command"							"show_match_history"
 			"labeltext"							"#TF_Competitive_ViewMatches"
-			"font"								"Size 12"
+			"font"								"Size12"
 			"textAlignment"						"center"
 			"AllCaps"							"1"
 
@@ -210,7 +210,7 @@
 					"border_default"			"SortCategoryBorder"	
 			
 					"labeltext"					"#TF_Competitive_Result"
-					"font"						"Size 11"
+					"font"						"Size11"
 					"fgcolor_override"			"White"
 					"textAlignment"				"west"
 					"textinsetx"				"4"
@@ -245,7 +245,7 @@
 					"border_default"			"SortCategoryBorder"
 			
 					"labeltext"					"#TF_Competitive_Date"
-					"font"						"Size 11"
+					"font"						"Size11"
 					"fgcolor_override"			"White"
 					"textAlignment"				"west"
 					"textinsetx"				"10"
@@ -280,7 +280,7 @@
 					"border_default"			"SortCategoryBorder"
 			
 					"labeltext"					"#TF_Competitive_Map"
-					"font"						"Size 11"
+					"font"						"Size11"
 					"fgcolor_override"			"White"
 					"textAlignment"				"west"
 					"textinsetx"				"8"
@@ -315,7 +315,7 @@
 					"border_default"			"SortCategoryBorder"
 			
 					"labeltext"					"#TF_Competitive_KDR"
-					"font"						"Size 11"
+					"font"						"Size11"
 					"fgcolor_override"			"White"
 					"textAlignment"				"west"
 					"AllCaps"					"1"

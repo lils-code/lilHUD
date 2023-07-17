@@ -187,7 +187,7 @@
 			{
 				"ControlName"						"CExLabel"
 				"fieldName"							"StatsAndMedals"
-				"font"								"Size 14"
+				"font"								"Size14"
 				"labelText"							"#TF_StatsAndMedals"
 				"textAlignment"						"center"
 				"xpos"								"0"
@@ -206,7 +206,7 @@
 			{
 				"ControlName"						"CExLabel"
 				"fieldName"							"StatsAndMedalsShadow"
-				"font"								"Size 14"
+				"font"								"Size14"
 				"labelText"							"#TF_StatsAndMedals"
 				"fgcolor"							"Black"
 				"textAlignment"						"center"
@@ -271,7 +271,7 @@
 				{
 					"ControlName"					"CExLabel"
 					"fieldName"						"BlueTeamScore"
-					"font"							"Size 36"
+					"font"							"Size36"
 					"labelText"						"%blueteamscore%"
 					"textAlignment"					"east"
 					"xpos"							"5"
@@ -295,7 +295,7 @@
 				{
 					"ControlName"					"CExLabel"
 					"fieldName"						"BlueTeamScoreDropshadow"
-					"font"							"Size 36"
+					"font"							"Size36"
 					"fgcolor"						"Black"
 					"labelText"						"%blueteamscore%"
 					"textAlignment"					"east"
@@ -318,7 +318,7 @@
 				{
 					"ControlName"					"CExLabel"
 					"fieldName"						"BlueTeamWinner"
-					"font"							"Size 20"
+					"font"							"Size20"
 					"labelText"						"%blueteamwinner%"
 					"textAlignment"					"east"
 					"xpos"							"5"
@@ -341,7 +341,7 @@
 				{
 					"ControlName"					"CExLabel"
 					"fieldName"						"BlueTeamWinnerDropshadow"
-					"font"							"Size 20"
+					"font"							"Size20"
 					"fgcolor"						"Black"
 					"labelText"						"%blueteamwinner%"
 					"textAlignment"					"east"
@@ -383,7 +383,7 @@
 				{
 					"ControlName"					"CExLabel"
 					"fieldName"						"BlueTeamLabel"
-					"font"							"Size 14"
+					"font"							"Size14"
 					"labelText"						"%blueteamname%"
 					"textAlignment"					"west"
 					"xpos"							"60"
@@ -547,7 +547,7 @@
 				{
 					"ControlName"					"CExLabel"
 					"fieldName"						"RedTeamScore"
-					"font"							"Size 36"
+					"font"							"Size36"
 					"labelText"						"%redteamscore%"
 					"textAlignment"					"west"
 					"xpos"							"r5-p.19"
@@ -570,7 +570,7 @@
 				{
 					"ControlName"					"CExLabel"
 					"fieldName"						"RedTeamScoreDropshadow"
-					"font"							"Size 36"
+					"font"							"Size36"
 					"fgcolor"						"Black"
 					"labelText"						"%redteamscore%"
 					"textAlignment"					"west"
@@ -593,7 +593,7 @@
 				{
 					"ControlName"					"CExLabel"
 					"fieldName"						"RedTeamWinner"
-					"font"							"Size 20"
+					"font"							"Size20"
 					"labelText"						"%redteamwinner%"
 					"textAlignment"					"west"
 					"xpos"							"r5-p.19"
@@ -616,7 +616,7 @@
 				{
 					"ControlName"					"CExLabel"
 					"fieldName"						"RedTeamWinnerDropshadow"
-					"font"							"Size 20"
+					"font"							"Size20"
 					"fgcolor"						"Black"
 					"labelText"						"%redteamwinner%"
 					"textAlignment"					"west"
@@ -658,7 +658,7 @@
 				{
 					"ControlName"					"CExLabel"
 					"fieldName"						"RedTeamLabel"
-					"font"							"Size 14"
+					"font"							"Size14"
 					"labelText"						"%redteamname%"
 					"textAlignment"					"east"
 					"xpos"							"r255"
@@ -820,7 +820,7 @@
 				{
 					"ControlName"					"CExLabel"
 					"fieldName"						"BlueGoldMedalValue"
-					"font"							"Size 14"
+					"font"							"Size14"
 					"labelText"						"%blueteammedals_gold%"
 					"textAlignment"					"center"
 					"xpos"							"15"
@@ -852,7 +852,7 @@
 				{
 					"ControlName"					"CExLabel"
 					"fieldName"						"BlueSilverMedalValue"
-					"font"							"Size 14"
+					"font"							"Size14"
 					"labelText"						"%blueteammedals_silver%"
 					"textAlignment"					"center"
 					"xpos"							"70"
@@ -884,7 +884,7 @@
 				{
 					"ControlName"					"CExLabel"
 					"fieldName"						"BlueBronzeMedalValue"
-					"font"							"Size 14"
+					"font"							"Size14"
 					"labelText"						"%blueteammedals_bronze%"
 					"textAlignment"					"center"
 					"xpos"							"125"
@@ -934,7 +934,7 @@
 				{
 					"ControlName"					"CExLabel"
 					"fieldName"						"RedGoldMedalValue"
-					"font"							"Size 14"
+					"font"							"Size14"
 					"labelText"						"%redteammedals_gold%"
 					"textAlignment"					"center"
 					"xpos"							"15"
@@ -966,7 +966,7 @@
 				{
 					"ControlName"					"CExLabel"
 					"fieldName"						"RedSilverMedalValue"
-					"font"							"Size 14"
+					"font"							"Size14"
 					"labelText"						"%redteammedals_silver%"
 					"textAlignment"					"center"
 					"xpos"							"70"
@@ -998,7 +998,7 @@
 				{
 					"ControlName"					"CExLabel"
 					"fieldName"						"RedBronzeMedalValue"
-					"font"							"Size 14"
+					"font"							"Size14"
 					"labelText"						"%redteammedals_bronze%"
 					"textAlignment"					"center"
 					"xpos"							"125"

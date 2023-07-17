@@ -21,7 +21,7 @@
 		"enabled"					"1"
 		"tabPosition"				"0"
 		"labelText"					"%selectbuttontext%"
-		"font"						"Size 15"
+		"font"						"Size15"
 		"textAlignment"				"center"
 		"textinsetx"				"0"
 		"dulltext"					"0"

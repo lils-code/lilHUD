@@ -144,7 +144,7 @@
 		
 		"cart_labels_kv"
 		{
-			"font"							"Size 11"
+			"font"							"Size11"
 			"textAlignment"					"north-east"
 			"xpos"							"9999"
 			"ypos"							"9999"
@@ -248,7 +248,7 @@
 			"textAlignment"					"center"
 			"scaleImage"					"1"
 			"AllCaps"						"1"
-			"font"							"Size 13"
+			"font"							"Size13"
 			
 			"fgcolor"						"White"
 			"defaultBgColor_override" 		"0 0 0 75"
@@ -325,7 +325,7 @@
 	{
 		"ControlName"						"CExLabel"
 		"fieldName"							"CurPageLabel"
-		"font"								"Size 24"
+		"font"								"Size24"
 		"labelText"							"%backpackpage%"
 		"textAlignment"						"east"
 		"xpos"								"-4"
@@ -416,7 +416,7 @@
 	{
 		"ControlName"						"CExLabel"
 		"fieldName"							"BackpackSpaceLabel"
-		"font"								"Size 15"
+		"font"								"Size15"
 		"labelText"							"%freebackpackspace%"
 		"textAlignment"						"center"
 		"xpos"								"0"
@@ -440,7 +440,7 @@
 	{
 		"ControlName"						"CExButton"
 		"fieldName"							"CartButton"
-		"font"								"Size 15"
+		"font"								"Size15"
 		"labelText"							"%storecart%"
 		"textAlignment"						"east"
 		"xpos"								"-4"
@@ -454,7 +454,7 @@
 		"textinsetx"						"15"
 		
 		"Command"							"viewcart"
-		"font"								"Size 15"
+		"font"								"Size15"
 		
 		"sound_depressed"					"UI/buttonclick.wav"
 		"sound_released"					"UI/buttonclickrelease.wav"
@@ -507,7 +507,7 @@
 		"enabled"							"1"
 		"tabPosition"						"0"
 		"labelText"							"#Store_BrowseTheStore"
-		"font"								"Size 15"
+		"font"								"Size15"
 		"textAlignment"						"center"
 		"dulltext"							"0"
 		"brighttext"						"0"
@@ -532,7 +532,7 @@
 		"enabled"							"1"
 		"tabPosition"						"0"
 		"labelText"							"Steam Market"
-		"font"								"Size 15"
+		"font"								"Size15"
 		"textAlignment"						"center"
 		"dulltext"							"0"
 		"brighttext"						"0"

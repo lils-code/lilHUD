@@ -120,7 +120,7 @@
 	{
 		"ControlName"					"CExLabel"
 		"fieldName"						"ClassLabel"
-		"font"							"Size 35"
+		"font"							"Size35"
 		"labelText"						"#ClassBeingEquipped"
 		"textAlignment"					"west"
 		"xpos"							"c-309"
@@ -330,7 +330,7 @@
 		"tabPosition"					"0"
 		"labelText"						"R"
 		"textAlignment"					"center"
-		"font"							"Size 24"
+		"font"							"Size24"
 		"scaleImage"					"1"
 		"command"						"sv_cheats 1;r_skin 0"
 		
@@ -363,7 +363,7 @@
 		"tabPosition"					"0"
 		"labelText"						"B"
 		"textAlignment"					"center"
-		"font"							"Size 24"
+		"font"							"Size24"
 		"scaleImage"					"1"
 		"command"						"sv_cheats 1;r_skin 1"
 		

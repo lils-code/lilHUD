@@ -1,0 +1,45 @@
+alias none ""
+alias "open_customList" "con_logfile cfg/lilHUD_customList.txt"
+
+//killstreak =======
+
+alias "open_ks" "sixense_clear_bindings;sixense_write_bindings lilHUD_ks.txt;con_logfile cfg/lilHUD_ks.txt;echo #base ../custom/lilhud/resource/ui/HudItemEffectMeter_Count.res; echo lilHUD_ks.txt;echo {"
+
+alias "ksPos" ""
+alias "ksPos0" "echo HudItemEffectMeter;echo {;echo }"
+alias "ksPos1" "echo HudItemEffectMeter;echo {;echo xpos 100;echo }"
+alias "ksPos2" "echo HudItemEffectMeter;echo {;echo ypos 100;echo }"
+
+alias "ksStyle" ""
+alias "ksStyle0" "echo Label;echo {;echo fgcolor white;echo }"
+alias "ksStyle1" "echo Label;echo {;echo fgcolor black;echo }"
+alias "ksStyle2" "echo Label;echo {;echo fgcolor shadows;echo }"
+
+
+//retain settings ==
+
+alias "full_init" "open_customList;echo alias full_init none;echo alias ksPos ksPos0;echo alias ksStyle ksStyle0;con_logfile .x;echo ran full init;exec lilHUD_customList.txt"
+
+exec lilHUD_customList.txt
+
+full_init
+
+//setters ==========
+
+//ks ---------------
+alias "set_ksPos0" "alias ksPos ksPos0;open_customList;echo alias ksPos ksPos0;con_logfile .x;bake_ks"
+alias "set_ksPos1" "alias ksPos ksPos1;open_customList;echo alias ksPos ksPos1;con_logfile .x;bake_ks"
+alias "set_ksPos2" "alias ksPos ksPos2;open_customList;echo alias ksPos ksPos2;con_logfile .x;bake_ks"
+
+alias "set_ksStyle0" "alias ksStyle ksStyle0;open_customList;echo alias ksStyle ksStyle0;con_logfile .x;bake_ks"
+alias "set_ksStyle1" "alias ksStyle ksStyle1;open_customList;echo alias ksStyle ksStyle1;con_logfile .x;bake_ks"
+alias "set_ksStyle2" "alias ksStyle ksStyle2;open_customList;echo alias ksStyle ksStyle2;con_logfile .x;bake_ks"
+
+//baking ===========
+
+alias "bake_ks" "open_ks;ksPos;ksStyle;echo };con_logfile .x"
+
+
+//all done =========
+
+echo "lilHUD loaded, please enjoy!!"

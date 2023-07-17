@@ -59,7 +59,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"MapType"
-		"font"				"Size 30"
+		"font"				"Size30"
 		"labelText"			"%maptype%"
 		"textAlignment"		"center"
 		"xpos"				"c-240"
@@ -79,7 +79,7 @@
 	{
 		"ControlName"		"CExLabel"
 		"fieldName"			"MapLabel"
-		"font"				"Size 56"
+		"font"				"Size56"
 		"labelText"			"%maplabel%"
 		"textAlignment"		"center"
 		"xpos"				"c-240"

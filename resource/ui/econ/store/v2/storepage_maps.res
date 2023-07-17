@@ -72,7 +72,7 @@
 	{
 		"ControlName"					"CExLabel"
 		"fieldName"						"TitleLabel"
-		"font"							"Size 15"
+		"font"							"Size15"
 		"labelText"						"#Store_Maps_Title"
 		"textAlignment"					"north-west"
 		"xpos"							"c-290"
@@ -92,7 +92,7 @@
 	{
 		"ControlName"					"CExLabel"
 		"fieldName"						"SubTitleLabel"
-		"font"							"Size 10"
+		"font"							"Size10"
 		"labelText"						"#Store_Maps_SubTitle"
 		"textAlignment"					"south-west"
 		"xpos"							"c-290"
@@ -123,7 +123,7 @@
 		"enabled"						"1"
 		"tabPosition"					"0"
 		"labelText"						"#Store_LearnMore"
-		"font"							"Size 15"
+		"font"							"Size15"
 		"textAlignment"					"center"
 		"dulltext"						"0"
 		"brighttext"					"0"

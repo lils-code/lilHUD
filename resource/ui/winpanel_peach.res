@@ -47,7 +47,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"BlueTeamLabel"
-			"font"					"Size 18"
+			"font"					"Size18"
 			"labelText"				"%blueteamname%"
 			"textAlignment"			"east"
 			"xpos"					"-6"
@@ -70,7 +70,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"BlueTeamScore"
-			"font"					"Size 18"
+			"font"					"Size18"
 			"labelText"				"%blueteamscore%"
 			"textAlignment"			"west"
 			"xpos"					"-4"
@@ -93,7 +93,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"RedTeamLabel"
-			"font"					"Size 18"
+			"font"					"Size18"
 			"labelText"				"%redteamname%"
 			"textAlignment"			"west"
 			"xpos"					"-6"
@@ -116,7 +116,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"RedTeamScore"
-			"font"					"Size 18"
+			"font"					"Size18"
 			"labelText"				"%redteamscore%"
 			"textAlignment"			"east"
 			"xpos"					"-4"
@@ -278,7 +278,7 @@
 	{	
 		"ControlName"				"CExLabel"
 		"fieldName"					"Player1Name"
-		"font"						"Size 10"
+		"font"						"Size10"
 		"xpos"						"0"
 		"ypos"						"0"
 		"zpos"						"10"
@@ -302,7 +302,7 @@
 	{	
 		"ControlName"				"CExLabel"
 		"fieldName"					"Player1Score"
-		"font"						"Size 10"
+		"font"						"Size10"
 		"xpos"						"0"
 		"ypos"						"0"
 		"zpos"						"10"
@@ -326,7 +326,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"Player1Class"
-		"font"						"Size 10"
+		"font"						"Size10"
 		"xpos"						"10"
 		"ypos"						"0"
 		"zpos"						"10"
@@ -350,7 +350,7 @@
 	{	
 		"ControlName"				"CExLabel"
 		"fieldName"					"Player2Name"
-		"font"						"Size 10"
+		"font"						"Size10"
 		"xpos"						"0"
 		"ypos"						"0"
 		"zpos"						"10"
@@ -374,7 +374,7 @@
 	{	
 		"ControlName"				"CExLabel"
 		"fieldName"					"Player2Score"
-		"font"						"Size 10"
+		"font"						"Size10"
 		"xpos"						"0"
 		"ypos"						"0"
 		"zpos"						"10"
@@ -398,7 +398,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"Player2Class"
-		"font"						"Size 10"
+		"font"						"Size10"
 		"xpos"						"0"
 		"ypos"						"0"
 		"zpos"						"10"
@@ -422,7 +422,7 @@
 	{	
 		"ControlName"				"CExLabel"
 		"fieldName"					"Player3Name"
-		"font"						"Size 10"
+		"font"						"Size10"
 		"xpos"						"0"
 		"ypos"						"0"
 		"zpos"						"10"
@@ -446,7 +446,7 @@
 	{	
 		"ControlName"				"CExLabel"
 		"fieldName"					"Player3Score"
-		"font"						"Size 10"
+		"font"						"Size10"
 		"xpos"						"0"
 		"ypos"						"0"
 		"zpos"						"10"
@@ -470,7 +470,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"Player3Class"
-		"font"						"Size 10"
+		"font"						"Size10"
 		"xpos"						"0"
 		"ypos"						"0"
 		"zpos"						"10"
@@ -566,7 +566,7 @@
 	{	
 		"ControlName"				"CExLabel"
 		"fieldName"					"KillStreakPlayer1Name"
-		"font"						"Size 10"
+		"font"						"Size10"
 		"xpos"						"0"
 		"ypos"						"0"
 		"zpos"						"10"
@@ -592,7 +592,7 @@
 		"fieldName"					"KillStreakPlayer1Class"
 		"ControlName"				"CExLabel"
 		"fieldName"					"Player1Class"
-		"font"						"Size 10"
+		"font"						"Size10"
 		"xpos"						"10"
 		"ypos"						"0"
 		"zpos"						"10"
@@ -616,7 +616,7 @@
 	{	
 		"ControlName"				"CExLabel"
 		"fieldName"					"KillStreakPlayer1Score"
-		"font"						"Size 10"
+		"font"						"Size10"
 		"xpos"						"0"
 		"ypos"						"0"
 		"zpos"						"10"

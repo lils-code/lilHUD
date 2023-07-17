@@ -243,7 +243,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"ItemNameLabel"
-			"font"			"Size 11"
+			"font"			"Size11"
 			"labelText"		"%itemname%"
 			"textAlignment"	"west"
 			"xpos"			"240"
@@ -296,7 +296,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"ItemLevelInfoLabel"
-					"font"			"Size 10"
+					"font"			"Size10"
 					"labelText"		"%item_level_info%"
 					"textAlignment"	"north-west"
 					"wide"			"228"
@@ -313,7 +313,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"RestrictionsLabel"
-					"font"			"Size 10"
+					"font"			"Size10"
 					"labelText"		"#Store_ItemDesc_Restrictions"
 					"textAlignment"	"north-west"
 					"wide"			"228"
@@ -330,7 +330,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"RestrictionsTextLabel"
-					"font"			"Size 10"
+					"font"			"Size10"
 					"labelText"		"#Store_HolidayRestrictionText"
 					"textAlignment"	"north-west"
 					"wide"			"228"
@@ -347,7 +347,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"UsedByLabel"
-					"font"			"Size 10"
+					"font"			"Size10"
 					"labelText"		"#Store_ItemDesc_UsedBy"
 					"textAlignment"	"north-west"
 					"wide"			"228"
@@ -364,7 +364,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"UsedByTextLabel"
-					"font"			"Size 10"
+					"font"			"Size10"
 					"labelText"		"%used_by_classes%"
 					"textAlignment"	"north-west"
 					"wide"			"228"
@@ -381,7 +381,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"SlotLabel"
-					"font"			"Size 10"
+					"font"			"Size10"
 					"labelText"		"#Store_ItemDesc_Slot"
 					"textAlignment"	"north-west"
 					"wide"			"228"
@@ -398,7 +398,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"SlotTextLabel"
-					"font"			"Size 10"
+					"font"			"Size10"
 					"labelText"		"%slot%"
 					"textAlignment"	"north-west"
 					"wide"			"228"
@@ -415,7 +415,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"ArmoryTextLabel"
-					"font"			"Size 10"
+					"font"			"Size10"
 					"textAlignment"	"north-west"
 					"wide"			"228"
 					"tall"			"10"
@@ -432,7 +432,7 @@
 				{
 					"ControlName"	"CExLabel"
 					"fieldName"		"AttributesLabel"
-					"font"			"Size 10"
+					"font"			"Size10"
 					"textAlignment"	"north-west"
 					"zpos"			"2"
 					"wide"			"228"
@@ -472,7 +472,7 @@
 					"enabled"		"1"
 					"tabPosition"	"0"
 					"labelText"		"#Store_ItemDesc_ItemWikiPage"
-					"font"			"Size 15"
+					"font"			"Size15"
 					"textAlignment"	"center"
 					"AllCaps"		"1"
 					"dulltext"		"0"
@@ -982,7 +982,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"CycleTextLabel"
-		"font"			"Size 10"
+		"font"			"Size10"
 		"labelText"		""
 		"textAlignment"	"left"
 		"xpos"			"c-186"
@@ -1006,7 +1006,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PaintNameLabel"
-		"font"			"Size 10"
+		"font"			"Size10"
 		"labelText"		"#Store_NoPaint"
 		"textAlignment"	"left"
 		"xpos"			"c-186"
@@ -1027,7 +1027,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"StyleNameLabel"
-		"font"			"Size 10"
+		"font"			"Size10"
 		"labelText"		"None"
 		"textAlignment"	"left"
 		"xpos"			"132"

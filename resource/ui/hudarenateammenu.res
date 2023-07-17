@@ -94,7 +94,7 @@
 		"AllCaps"							"1"
 		"dulltext"							"0"
 		"brighttext"						"1"
-		"font"								"Size 24"
+		"font"								"Size24"
 		"fgcolor_override"					"White"
 		
 		"pin_to_sibling" 					"MapNameFrame"
@@ -134,7 +134,7 @@
 		"AllCaps"		  					"1"
 		"labelText"		  					"Fight"
 		"textAlignment"	  					"center"
-		"font"			  					"Size 32"
+		"font"			  					"Size32"
 		"fgcolor"		  					"White"
 		
 		"pin_to_sibling" 					"FightFrame"
@@ -205,7 +205,7 @@
 		"AllCaps"		  					"1"
 		"labelText"		  					"Spectate"
 		"textAlignment"	  					"center"
-		"font"			  					"Size 32"
+		"font"			  					"Size32"
 		"fgcolor"		  					"White"
 		
 		"pin_to_sibling" 					"SpectateFrame"
@@ -262,7 +262,7 @@
 		"brighttext"						"0"
 		"AllCaps"							"1"
 		"command"							"cancelmenu"
-		"font"								"Size 15"
+		"font"								"Size15"
 		
 		"paintbackground"					"0"
 		

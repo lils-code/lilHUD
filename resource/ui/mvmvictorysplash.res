@@ -35,7 +35,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"SplashLabel"
-			"font"					"Size 40"
+			"font"					"Size40"
 			"labelText"				"#TF_MVM_Victory"
 			"textAlignment" 		"center"
 			"xpos"					"0"
@@ -50,7 +50,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"SplashLabelShadow"
-			"font"					"Size 40"
+			"font"					"Size40"
 			"labelText"				"#TF_MVM_Victory"
 			"textAlignment" 		"center"
 			"xpos"					"-1"
