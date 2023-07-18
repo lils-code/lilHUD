@@ -145,7 +145,7 @@
 		"labelText"						"]"
 
 		"textAlignment"					"center"
-		"font"							"Symbols 14"
+		"font"							"Symbols14"
 		
 		"paintbackground"				"0"
 

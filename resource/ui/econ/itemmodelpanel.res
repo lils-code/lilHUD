@@ -122,7 +122,7 @@
 		{
 			"ControlName"			"CExLabel"
 			"fieldName"				"equippedlabel"
-			"font"					"Symbols 12"
+			"font"					"Symbols12"
 			"xpos"					"35"
 			"ypos"					"28"
 			"zpos"					"2"

@@ -15,7 +15,7 @@
 		{
 			"ControlName"				"CExLabel"
 			"fieldName"					"TitleLabel"
-			"font"						"Symbols 28"
+			"font"						"Symbols28"
 			"labelText"					""		//Y
 			"textAlignment"				"center"
 			"xpos"						"0"

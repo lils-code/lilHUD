@@ -154,7 +154,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"BlueTeamPlayerCountIcon"
-		"font"						"Symbols 16"
+		"font"						"Symbols16"
 		"fgcolor"					"White"
 		"labelText"					"Y"
 		"textAlignment"				"east"
@@ -265,7 +265,7 @@
 	{
 		"ControlName"				"CExLabel"
 		"fieldName"					"RedTeamPlayerCountIcon"
-		"font"						"Symbols 16"
+		"font"						"Symbols16"
 		"fgcolor"					"White"
 		"labelText"					"Y"
 		"textAlignment"				"west"

@@ -2,7 +2,7 @@ Scheme
 {
 	Fonts
 	{
-		"Symbols 10"
+		"Symbols10"
 		{
 			"1"
 			{
@@ -13,7 +13,7 @@ Scheme
 			}
 		}
 		
-		"Symbols 12"
+		"Symbols12"
 		{
 			"1"
 			{
@@ -24,7 +24,7 @@ Scheme
 			}
 		}
 		
-		"Symbols 14"
+		"Symbols14"
 		{
 			"1"
 			{
@@ -35,7 +35,7 @@ Scheme
 			}
 		}
 		
-		"Symbols 16"
+		"Symbols16"
 		{
 			"1"
 			{
@@ -46,7 +46,7 @@ Scheme
 			}
 		}
 		
-		"Symbols 18"
+		"Symbols18"
 		{
 			"1"
 			{
@@ -57,7 +57,7 @@ Scheme
 			}
 		}
 		
-		"Symbols 20"
+		"Symbols20"
 		{
 			"1"
 			{
@@ -68,7 +68,7 @@ Scheme
 			}
 		}
 		
-		"Symbols 22"
+		"Symbols22"
 		{
 			"1"
 			{
@@ -79,7 +79,7 @@ Scheme
 			}
 		}
 		
-		"Symbols 24"
+		"Symbols24"
 		{
 			"1"
 			{
@@ -90,7 +90,7 @@ Scheme
 			}
 		}
 		
-		"Symbols 26"
+		"Symbols26"
 		{
 			"1"
 			{
@@ -101,7 +101,7 @@ Scheme
 			}
 		}
 		
-		"Symbols 28"
+		"Symbols28"
 		{
 			"1"
 			{
@@ -112,7 +112,7 @@ Scheme
 			}
 		}
 		
-		"Symbols 30"
+		"Symbols30"
 		{
 			"1"
 			{
@@ -123,7 +123,7 @@ Scheme
 			}
 		}
 		
-		"Symbols 34"
+		"Symbols34"
 		{
 			"1"
 			{
@@ -134,7 +134,7 @@ Scheme
 			}
 		}
 		
-		"Symbols 38"
+		"Symbols38"
 		{
 			"1"
 			{
@@ -145,7 +145,7 @@ Scheme
 			}
 		}
 		
-		"Symbols 40"
+		"Symbols40"
 		{
 			"1"
 			{
@@ -156,7 +156,7 @@ Scheme
 			}
 		}
 		
-		"Symbols 46"
+		"Symbols46"
 		{
 			"1"
 			{
@@ -167,7 +167,7 @@ Scheme
 			}
 		}
 		
-		"Symbols 48"
+		"Symbols48"
 		{
 			"1"
 			{
@@ -178,7 +178,7 @@ Scheme
 			}
 		}
 		
-		"Symbols 50"
+		"Symbols50"
 		{
 			"1"
 			{
@@ -189,7 +189,7 @@ Scheme
 			}
 		}
 		
-		"Symbols 54"
+		"Symbols54"
 		{
 			"1"
 			{
@@ -200,7 +200,7 @@ Scheme
 			}
 		}
 		
-		"Symbols 58"
+		"Symbols58"
 		{
 			"1"
 			{
@@ -211,7 +211,7 @@ Scheme
 			}
 		}
 		
-		"Symbols 60"
+		"Symbols60"
 		{
 			"1"
 			{
@@ -222,7 +222,7 @@ Scheme
 			}
 		}
 		
-		"Symbols 64"
+		"Symbols64"
 		{
 			"1"
 			{
@@ -233,7 +233,7 @@ Scheme
 			}
 		}
 		
-		"Symbols 68"
+		"Symbols68"
 		{
 			"1"
 			{
@@ -244,7 +244,7 @@ Scheme
 			}
 		}
 		
-		"Symbols 70"
+		"Symbols70"
 		{
 			"1"
 			{
@@ -255,7 +255,7 @@ Scheme
 			}
 		}
 		
-		"Symbols 72"
+		"Symbols72"
 		{
 			"1"
 			{
@@ -266,7 +266,7 @@ Scheme
 			}
 		}
 		
-		"Class Symbols 40"
+		"Class Symbols40"
 		{
 			"1"
 			{
@@ -277,7 +277,7 @@ Scheme
 			}
 		}
 		
-		"Class Symbols 48"
+		"ClassSymbols58"
 		{
 			"1"
 			{
@@ -288,7 +288,7 @@ Scheme
 			}
 		}
 		
-		"Class Symbols 72"
+		"ClassSymbols72"
 		{
 			"1"
 			{

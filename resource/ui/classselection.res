@@ -102,7 +102,7 @@
 		"textAlignment"						"center"
 		"Command"							"select 1"
 		"Default"							"0"
-		"font"								"Class Symbols 40"
+		"font"								"Class Symbols40"
 		"scaleImage"						"1"
 		
 		"image_default"						""
@@ -148,7 +148,7 @@
 		"textAlignment"						"center"
 		"Command"							"select 3"
 		"Default"							"0"
-		"font"								"Class Symbols 40"
+		"font"								"Class Symbols40"
 		"scaleImage"						"1"
 		
 		"image_default"						""
@@ -194,7 +194,7 @@
 		"textAlignment"						"center"
 		"Command"							"select 7"
 		"Default"							"0"
-		"font"								"Class Symbols 40"
+		"font"								"Class Symbols40"
 		"scaleImage"						"1"
 		
 		"image_default"						""
@@ -240,7 +240,7 @@
 		"textAlignment"						"center"
 		"Command"							"select 4"
 		"Default"							"0"
-		"font"								"Class Symbols 40"
+		"font"								"Class Symbols40"
 		"scaleImage"						"1"
 		
 		"image_default"						""
@@ -286,7 +286,7 @@
 		"textAlignment"						"center"
 		"Command"							"select 6"
 		"Default"							"0"
-		"font"								"Class Symbols 40"
+		"font"								"Class Symbols40"
 		"scaleImage"						"1"
 		
 		"image_default"						""
@@ -332,7 +332,7 @@
 		"textAlignment"						"center"
 		"Command"							"select 9"
 		"Default"							"0"
-		"font"								"Class Symbols 40"
+		"font"								"Class Symbols40"
 		"scaleImage"						"1"
 		
 		"image_default"						""
@@ -378,7 +378,7 @@
 		"textAlignment"						"center"
 		"Command"							"select 5"
 		"Default"							"0"
-		"font"								"Class Symbols 40"
+		"font"								"Class Symbols40"
 		"scaleImage"						"1"
 		
 		"image_default"						""
@@ -424,7 +424,7 @@
 		"textAlignment"						"center"
 		"Command"							"select 2"
 		"Default"							"0"
-		"font"								"Class Symbols 40"
+		"font"								"Class Symbols40"
 		"scaleImage"						"1"
 		
 		"image_default"						""
@@ -470,7 +470,7 @@
 		"textAlignment"						"center"
 		"Command"							"select 8"
 		"Default"							"0"
-		"font"								"Class Symbols 40"
+		"font"								"Class Symbols40"
 		"scaleImage"						"1"
 		
 		"image_default"						""

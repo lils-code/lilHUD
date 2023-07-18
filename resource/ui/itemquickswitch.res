@@ -86,7 +86,7 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"CurrentlyEquippedBackground"
-			"font"									"Symbols 20"
+			"font"									"Symbols20"
 			"labelText"								"J"
 			"textAlignment"							"center"
 			"textinsety"							"0"

@@ -33,7 +33,7 @@
 		"AllCaps"				"1"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"Symbols 14"
+		"font"					"Symbols14"
 		
 		
 		"pin_to_sibling"		"ItemEffectMeterCount"
@@ -55,7 +55,7 @@
 		"labelText"				"H"
 		"textAlignment"			"west"	
 		"AllCaps"				"1"
-		"font"					"Symbols 14"
+		"font"					"Symbols14"
 		"fgcolor"				"Shadows"
 		
 		"pin_to_sibling"		"KillstreakLabel"

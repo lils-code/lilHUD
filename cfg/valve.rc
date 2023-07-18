@@ -11,9 +11,9 @@ alias "ksPos1" "echo HudItemEffectMeter;echo {;echo xpos 100;echo }"
 alias "ksPos2" "echo HudItemEffectMeter;echo {;echo ypos 100;echo }"
 
 alias "ksStyle" ""
-alias "ksStyle0" "echo Label;echo {;echo fgcolor white;echo }"
+alias "ksStyle0" "echo Label;echo {;echo ypos 14;echo labeltext streak;echo allcaps 1;echo font size10;echo };echo LabelShadow;echo {;echo labeltext streak;echo allcaps 1;echo font size10;echo }"
 alias "ksStyle1" "echo Label;echo {;echo fgcolor black;echo }"
-alias "ksStyle2" "echo Label;echo {;echo fgcolor shadows;echo }"
+alias "ksStyle2" "echo Label;echo {;echo visible 0;echo };echo LabelShadow;echo {;echo visible 0; echo }"
 
 
 //retain settings ==
@@ -27,13 +27,13 @@ full_init
 //setters ==========
 
 //ks ---------------
-alias "set_ksPos0" "alias ksPos ksPos0;open_customList;echo alias ksPos ksPos0;con_logfile .x;bake_ks"
-alias "set_ksPos1" "alias ksPos ksPos1;open_customList;echo alias ksPos ksPos1;con_logfile .x;bake_ks"
-alias "set_ksPos2" "alias ksPos ksPos2;open_customList;echo alias ksPos ksPos2;con_logfile .x;bake_ks"
+alias "set_ksPos0" "alias ksPos ksPos0;open_customList;echo alias ksPos ksPos0;con_logfile .x;bake_ks;hud_reloadscheme"
+alias "set_ksPos1" "alias ksPos ksPos1;open_customList;echo alias ksPos ksPos1;con_logfile .x;bake_ks;hud_reloadscheme"
+alias "set_ksPos2" "alias ksPos ksPos2;open_customList;echo alias ksPos ksPos2;con_logfile .x;bake_ks;hud_reloadscheme"
 
-alias "set_ksStyle0" "alias ksStyle ksStyle0;open_customList;echo alias ksStyle ksStyle0;con_logfile .x;bake_ks"
-alias "set_ksStyle1" "alias ksStyle ksStyle1;open_customList;echo alias ksStyle ksStyle1;con_logfile .x;bake_ks"
-alias "set_ksStyle2" "alias ksStyle ksStyle2;open_customList;echo alias ksStyle ksStyle2;con_logfile .x;bake_ks"
+alias "set_ksStyle0" "alias ksStyle ksStyle0;open_customList;echo alias ksStyle ksStyle0;con_logfile .x;bake_ks;hud_reloadscheme"
+alias "set_ksStyle1" "alias ksStyle ksStyle1;open_customList;echo alias ksStyle ksStyle1;con_logfile .x;bake_ks;hud_reloadscheme"
+alias "set_ksStyle2" "alias ksStyle ksStyle2;open_customList;echo alias ksStyle ksStyle2;con_logfile .x;bake_ks;hud_reloadscheme"
 
 //baking ===========
 
